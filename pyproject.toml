@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "site"
+version = "0.1.0"
+description = "a personal website made with Sphinx"
+authors = ["Matt Smith"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Sphinx = "^4.1.2"
+sphinx-press-theme = "^0.8.0"
+furo = "^2021.8.11-beta.42"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
