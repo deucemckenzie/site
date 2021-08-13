@@ -79,17 +79,16 @@ What are the rules?
 - *I'm not reviewing I'm reflecting* - This is about what albums are my favorite
   and why. I'm not qualified to write a review, or interested in doing so.
 
-There will be analytics
------------------------
+Will there will be analytics?
+-----------------------------
 
-I can't help myself, it is what I do. I have been doing some analysis of the
-numbers, and I will be adding them to the site when I am happy with them. For
+Yes, I can't help myself. For
 now, here is a chart of my favorite albums by year. Also showing how many of my
 favorites from each year are in my curated vinyl collection. I currently own 76%
 of my favorites on vinyl.
 
 .. image:: images/album_chart.png
-  :width: 800
+  :width: 900
   :alt: Favorite albums by year
 
 Albums By Decade

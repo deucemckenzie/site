@@ -21,7 +21,7 @@ new music I loved, though I certainly tried. I'm still mostly getting into
 albums by artists I already know well.
 
 .. image:: images/2020.jpg
-  :width: 800
+  :width: 900
   :alt: My favorite albums from 2020
 
 .. raw:: html
