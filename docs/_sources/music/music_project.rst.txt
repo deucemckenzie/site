@@ -83,7 +83,14 @@ There will be analytics
 -----------------------
 
 I can't help myself, it is what I do. I have been doing some analysis of the
-numbers, and I will be adding them to the site when I am happy with them.
+numbers, and I will be adding them to the site when I am happy with them. For
+now, here is a chart of my favorite albums by year. Also showing how many of my
+favorites from each year are in my curated vinyl collection. I currently own 76%
+of my favorites on vinyl.
+
+.. image:: images/album_chart.png
+  :width: 800
+  :alt: Favorite albums by year
 
 Albums By Decade
 ----------------
