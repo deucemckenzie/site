@@ -24,6 +24,15 @@ albums by artists I already know well.
   :width: 800
   :alt: My favorite albums from 2020
 
+.. raw:: html
+  
+  <iframe
+  src="https://open.spotify.com/embed/playlist/7zbFoEgDbk3hQOWQfDg6mS?theme=0"
+  width="100%" height="80" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
+  
+
+
 - *The Loves of Your Life* by **Hamilton Leithouser** - I've enjoyed each of his three
   solo records released to date, but each one sounds more and more like his old
   band *The Walkmen* and I'm not going to complain. I loved *The Walkmen*.
