@@ -1,13 +1,14 @@
-.. personal_site documentation master file, created by
-   sphinx-quickstart on Thu Aug 12 15:41:31 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 My 21st Century GeoCities Page
 ==============================
 
+There is a lot of nostalgia and fondness for the handcrafted sites of web 1.0.
+Most of it is focussed on the garish aesthetics which I do not miss at all.
+Often ignored is the freeform creativity and healthy, personal indulgence that only writing 
+your own site from scratch can inspire. Please enjoy my minimalist attempt at a modern
+version of the original web...Or don't enjoy it. This isn't about you. ;)
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
-   example
+   /music/music_project
