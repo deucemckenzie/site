@@ -1,5 +1,10 @@
 2010s
 =====
+
+.. image:: images/2010s.jpg
+  :width: 900
+  :alt: Pitchfork Music Festival 2011
+
 This was an interesting decade for music and for my relationship with music.
 When it began, we were at the point I like to call "peak indie" where a
 collection of small labels were releasing the most culturally relevant albums,

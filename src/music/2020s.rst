@@ -1,6 +1,10 @@
 2020s
 =====
 
+.. image:: images/2020s.jpg
+  :width: 900
+  :alt: Ghost
+
 Still a work in progress. The pandemic has put a huge damper on everything, and
 music isn't immune. Artists aren't able to tour and album releases have been far
 fewer. The isolation and extra time has created some fairly introspective

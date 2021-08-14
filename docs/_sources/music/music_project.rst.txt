@@ -4,15 +4,17 @@ The Life Music Project
 For over ten years I have been slowly working on a personal project to create a
 definitive list of my favorite pop music albums. Music has played a special role
 in my life, and I want to create a canonical list of my favorites.
-These pages will serve as the final document of this process. At the time of my
-writing this introduction (12 Aug 2021), I have compiled a list of 994 albums
-spanning the years of 1956 to the current day. I'm not sure how long this final
-portion of the project will take, and it is very possible the list could expand
-or morph significantly as I go.
+These pages will serve as the final document of this process. 
 
 .. image:: images/life_music_cover.jpg
   :width: 900
   :alt: some of my records
+
+At the time of my
+writing this introduction (12 Aug 2021), I have compiled a list of 994 albums
+spanning the years of 1956 to the current day. I'm not sure how long this final
+portion of the project will take, and it is very possible the list could expand
+or morph significantly as I go.
 
 Why am I doing this?
 --------------------

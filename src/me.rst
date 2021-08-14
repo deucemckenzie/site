@@ -18,8 +18,8 @@ Rochester, New York
 
 - Data Engineer 
 - Student Pilot
-- Runner
+- `Runner <https://www.strava.com/athletes/35137643>`_
+- `Record collector <https://www.discogs.com/user/deucemckenzie/collection>`_
 - Virtual Reality Enthusiast
-- Lover of modern board games
-- Record collector
+- `Player of modern board games <https://boardgamegeek.com/collection/user/deucemckenzie?own=1&subtype=boardgame&ff=1>`_
 - Very nostalgic for the "spirit of the old web"
