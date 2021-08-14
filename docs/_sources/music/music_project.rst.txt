@@ -44,10 +44,10 @@ create a universal model of "my music" through all eras.
 What do I hope to Learn?
 ------------------------
 
-- *My Canonical Favorites* - A consistent understanding of what my favorite music is throughout the
+- *What are my Canonical Favorites?* - A consistent understanding of what my favorite music is throughout the
   eras of music, and my music consumption.
 
-- *A manageable wish list* - My interest in physical media has led me to compile my
+- *What vinyl records do I really want?* - My interest in physical media has led me to compile my
   "ultimate music collection" in the form of vinyl records. I like the idea of
   generally bounding this collection to my true favorites.
 
