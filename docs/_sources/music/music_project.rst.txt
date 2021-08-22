@@ -112,11 +112,32 @@ Will there will be analytics?
 Yes, I can't help myself. For
 now, here is a chart of my favorite albums by year. Also showing how many of my
 favorites from each year are in my curated vinyl collection. I currently own 76%
-of my favorites on vinyl.
+of my favorites on vinyl. 
 
-.. image:: images/album_chart.png
+.. image:: images/album_chart_annotated.png
   :width: 900
   :alt: Favorite albums by year
+
+Some observations from the data:
+
+1. The peak of the first mode in the plot occurs in the year 1979. This makes
+   sense, because if you were to ask me what the best year in music was, this
+   would be my answer.
+
+2. There is a period between about 1990 and 2009 where the percentage of my
+   favorites that I own on vinyl plummets. This is pretty much the "vinyl dark
+   ages" from the rise of the CD until the the vinyl revival started in earnest.
+   I would buy the records if they could be sourced for an affordable price.
+   This ratio will be greatly improved by the phenomena of the "20 year vinyl
+   reissue".
+
+3. The peak of the second mode, and the highest peak occurs in 2010. This year
+   was the culmination of the MP3 era, and I was writing for a local music blog,
+   hearing more music than I did at any other point in my life. It was also
+   before Spotify choice fatigue started to become a thing.
+
+4. Somewhere in the middle of the 2010s I became "old" and set in my ways. But
+   when exactly did it happen, and why?
 
 Albums By Decade
 ----------------

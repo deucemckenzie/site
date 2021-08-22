@@ -10,9 +10,6 @@ music isn't immune. Artists aren't able to tour and album releases have been far
 fewer. The isolation and extra time has created some fairly introspective
 records. It also gave me the time to make serious progress on this project.
 
-2021
-----
-TBD
 
 2020
 ----
@@ -64,3 +61,46 @@ albums by artists I already know well.
 
 - *It is What it Is* by **Thundercat** - Not as perfect at his last record *Drunk* but
   still an amazing record on the boundaries of R&B and jazz.
+
+2021
+----
+Compiling my favorites here as they happen.
+
+.. image:: images/image_forthcoming.jpg
+  :width: 900
+  :alt: Image forthcoming
+
+.. raw:: html
+
+  <iframe
+  src="https://open.spotify.com/embed/playlist/4hfNbM2di8sEjAnzMkylDm?theme=0" 
+  width="100%" height="80" frameBorder="0" allowtransparency="true" 
+  allow="encrypted-media"></iframe>
+
+- *Cavalcade* by **Black Midi** - My favorite artist discovery in some years.
+  (More than a decade maybe?). Some serious prog/math rock made with an indie spirit.
+  So pretty, so dense, so much to wrap your head around. The kind of music that
+  only makes sense to people with hundreds of favorite records, and hand craft a
+  website to talk about them.
+
+- *Chemtrails Over the Country Club* by **Lana Del Rey** - *NFR* wasn't a fluke,
+  but the beginning of a career on a whole new level. This is another extraordinary
+  album filled with the old Lana tricks and a killer folk soul. The songwriting
+  is top notch, and the performances are first rate. My favorite artist working
+  today.
+  
+- *Solar Power* by **Lorde** - Yes, this is a much subtler record with less lofty
+  themes and goals. We live in an age where subtlety doesn't get the credit it
+  deserves. This is a great record. Don't worry, I'm sure she will be back to
+  some real melodrama someday soon.
+
+- *Tomorrows III* by **Son Lux** - Continuing my Star Wars analogy from last
+  year, this is most definitely "Return of the Jedi" and "Embrace" is "Yub Nub"
+  brining the whole thing home with a positive vibe, looking back on the themes
+  that run through this amazing trilogy.
+
+- *The Future Bites* by **Steven Wilson** - I dig the sterile, anxious vibe of
+  this record, even if the songs aren't universally brilliant. Certainly music
+  for our current age. The singles "KING GHOST" and "PERSONAL SHOPPER" are
+  killer. Who here is surprised that this guy has changed sounds again?
+
