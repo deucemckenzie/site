@@ -50,7 +50,8 @@ create a universal model of "my music" through all eras.
 What do I hope to Learn?
 ------------------------
 
-- *What are my Canonical Favorites?* - I want a consistent understanding of what my favorite music is throughout the
+- *What are my "personal, canonical favorites?"* - I want a consistent 
+  understanding of what my favorite music is throughout the
   various eras of music, and my various methods of music consumption.
 
 - *What vinyl records do I really want?* - My interest in physical media has led me to compile my
@@ -92,10 +93,10 @@ Aren't there already websites for this kind of thing?
 
 Yes, there are music social networking sites (e.g. last.fm, RateYourMusic) that are
 quite popular. I have experimented with them in the past, and have even started
-this project in some for on them before. The truth is this is the kind of deeply
+this project in some form on them before. The truth is this is the kind of deeply
 personal project where I want full control. Also, modern static site generators
 have made it very easy to get high quality, flexible results from simple markdown
-language text files. Right now I'm using Python/Sphinx to make what you are
+language text files. Right now I'm using Python/Sphinx/ReStructuredText to make what you are
 currently seeing, but that could be quickly changed over to something else.
 Also, I miss the early days of the web when you would sit down with a text editor
 and craft a web publication by hand. Most of all, while my personal relationship

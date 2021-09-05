@@ -20,8 +20,8 @@ wardrobe and album collection today.
 
 When the decade closed, mainstream pop from the major labels had returned as the
 dominant force in the music scene. This kind of mainstream music had never
-really went away, it was more
-that independent music receded to the shadows again. I have nothing against
+really gone away, it was more
+that independent music had receded to the shadows again. I have nothing against
 mainstream pop, as my lists for earlier decades show. My objections mostly have
 to do with the impacts of how modern pop music is made. Today, your average pop
 single is written and produced by a committee of dozens. When that many folks
@@ -31,7 +31,8 @@ it reaches the finish line. Any remaining distinguishing characteristics are so
 intentionally created, that it can't help but feel contrived. I haven't been to a
 music festival since 2013. That last one was the inaugural "Crossing Brooklyn
 Ferry", a combination of the most high brow indie combined with artists that
-typically get labeled as contemporary classical. The rest of the decade, 75% of
+typically get labeled as contemporary classical. This was my Woodstock, lol.
+The rest of the decade, 75% of
 the live music I saw was the local symphony orchestra, This was where "I got
 old", but where exactly did it happen?
 
@@ -52,15 +53,15 @@ as several of my favorites released their best work.
 
   <iframe
   src="https://open.spotify.com/embed/playlist/55DcWRgBQciL97k3bsftmi?theme=0" 
-  width="100%" height="80" frameBorder="0" allowtransparency="true" 
+  width="100%" height="380" frameBorder="0" allowtransparency="true" 
   allow="encrypted-media"></iframe>
 
 - *Depression Cherry* by **Beach House** - This was when the world caught up with
-  what I already knew, these guys were one of the best bands currently working.
+  what I already knew, these guys are one of the best bands currently working.
   It is a little strange that dream pop made by two people with fairly minimal
   instrumentation and fairly consistent production techniques has had such
-  staying power. This is great record, and "Beyond Love" is my favorite song of
-  theirs.
+  staying power. This is great record, and "Beyond Love" is my most favorite song of
+  theirs among many favorites from them.
   
 - *Thank Your Lucky Stars* by **Beach House** - Now, releasing two records after
   one another was some serious flexing. In my opinion, this one is even a little
@@ -69,14 +70,15 @@ as several of my favorites released their best work.
 - *Girls in Peacetime Want to Dance* by **Belle and Sebastian** - Very solid an
   enjoyable, but the kind of record that made me wonder how much more they could
   milk the sound they had been working for the last decade plus. Sarah Marin's
-  vocal contributions continue to carry the band a bit at this point.
+  vocal contributions continue to carry the band a bit at this point. They
+  needed to change after this, and they did.
 
 - *Honeymoon* by **Lana Del Rey** - A very mellow left turn for Lana, this
   wasn't perfect by any means, but it was an important step in a different
   direction that she still is on.
 
 - *Meliora* by **Ghost** - This is the record where the formula came together in
-  a big way. It is amazing how something so satirical can be such seriously
+  a big way. It is amazing how something so satirical can also be such seriously
   great music. "He Is" is such a beautiful and stunningly produced mockery of
   christian rock.
 
@@ -87,9 +89,9 @@ as several of my favorites released their best work.
   album and loved it, I never checked out any of her other releases. I don't
   know why I am approaching this artist so cautiously. This is the kind of
   conservatory trained musician making complicated but highly melodic music
-  thing that I love.
+  thing that I love. Maybe someday I listen to something else she has done.
 
-- *Bones* by **Son Lux** - NPR's favorite son recruits some permanent members
+- *Bones* by **Son Lux** - NPR's "favorite son" recruits some permanent members
   and becomes a real band. It was the best thing to ever happen to this project.
   This is nerd rock at its finest. I saw them at the Warhol museum on the tour
   after this record, and that was the right kind of place to see this
@@ -118,8 +120,8 @@ as several of my favorites released their best work.
   Victoire record was a classically trained composer creating a rock band to
   make a very unusual kind of prog rock. This album is the composer using that
   band to play a contemporary classical work. In a way this albums felt like the
-  end of "indie classical" and while I liked to scoff at the idea of a genre, it
-  was a real and compelling thing. The remix of "A Thousand Tongues" by the very
+  end of "indie classical" and while I liked to scoff at the idea of the genre, it
+  was a real and compelling thing for a while. The remix of "A Thousand Tongues" by the very
   much not a classical composer **Lorna Dune** feels like the last glorious
   moments of the spirit of classical music nerds forming rock bands.
 
@@ -147,7 +149,7 @@ George Michael, Prince, and David Bowie.
   
   <iframe
   src="https://open.spotify.com/embed/playlist/0UKeYHGoGOzLvhyuxxXSCc?theme=0" 
-  width="100%" height="80" frameBorder="0" allowtransparency="true" 
+  width="100%" height="380" frameBorder="0" allowtransparency="true" 
   allow="encrypted-media"></iframe>
 
 - *Blackstar* by **David Bowie** - It is difficult to think about this record
@@ -335,7 +337,7 @@ comprised of artists from the early century indie boom that I had been following
 
 2018
 ----
-I think the best summary of this year is that all of these albums, except for
+I think the best summary of this year is that all of these albums except
 two were by artists that were among my favorites going into the year. Those two
 new artists were both discovered on NPRs All Things Considered. I may have been
 a bit out of touch with popular music.
