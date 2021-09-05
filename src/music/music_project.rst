@@ -110,8 +110,8 @@ will be little to no interest from others in what I put here.
 Will there will be analytics?
 -----------------------------
 
-Yes, I can't help myself. For
-now, here is a chart of my favorite albums by year. Also showing how many of my
+Yes, I can't help myself. More to come I'm sure, but for
+now here is a chart of my favorite albums by year. It also shows how many of my
 favorites from each year are in my curated vinyl collection. I currently own 76%
 of my favorites on vinyl. 
 
