@@ -61,7 +61,7 @@ What do I hope to Learn?
 - *When did I "get old?"* - Like most people, I have the strong feeling that at
   some point in the last 10 years I lost touch with not only with popular music, but
   also my connections to the youth culture it represents. When exactly did this
-  happen to me?
+  happen to me? (edit: I now know it was 2014)
 
 - *Why is music so important to me?* - When I really got into the meat of this
   project, it started to become clear that I was learning a lot about myself
@@ -138,7 +138,8 @@ Some observations from the data:
    before Spotify choice fatigue started to become a thing.
 
 4. Somewhere in the middle of the 2010s I became "old" and set in my ways. But
-   when exactly did it happen, and why?
+   when exactly did it happen, and why? (Edit: The answer is 2014, but the why
+   is still unclear).
 
 Albums By Decade
 ----------------
