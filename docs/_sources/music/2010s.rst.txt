@@ -36,6 +36,25 @@ The rest of the decade, 75% of
 the live music I saw was the local symphony orchestra, This was where "I got
 old", but where exactly did it happen?
 
+2012
+----
+This was a great year for music. I often think of this as the very climax of the
+"peak indie" years. Lots of great stuff being released regularly, and much of it
+was really pushing the art form forward. At the time I assumed life would go on
+like this forever. I didn't realize mainstream pop was about to become the
+dominant form, and I didn't realize how quickly I would start to "get old."
+
+.. image:: images/2012.jpg
+  :width: 900
+  :alt: My favorite albums from 2012
+
+.. raw:: html
+
+  <iframe
+  src="https://open.spotify.com/embed/playlist/5YFH6N6PeCeQ3sNmfG7BDc?theme=0" 
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 2013
 ----
 This is probably the last year in my life where my musical taste will be
