@@ -5,6 +5,8 @@
   :width: 900
   :alt: Pitchfork Music Festival 2011
 
+2010s Overview
+--------------
 This was an interesting decade for music and for my relationship with music.
 When it began, we were at the point I like to call "peak indie" where a
 collection of small labels were releasing the most culturally relevant albums,
@@ -35,6 +37,95 @@ typically get labeled as contemporary classical. This was my Woodstock, lol.
 The rest of the decade, 75% of
 the live music I saw was the local symphony orchestra, This was where "I got
 old", but where exactly did it happen?
+
+2010s Stats/Favorites
+---------------------
+Section started: 12 Aug 2021
+
+Section complete:
+
+Latest update: 26 Oct 2021
+
+Total Albums: 
+
+Top Artists:
+
+Favorite album:
+
+Favorite Song:
+
+2011
+----
+I bought a house in 2011, and all of a sudden I had way more room for records.
+This was when I really committed myself to building a new music collection in
+vinyl records that would better represent my tastes and world view as a adult.
+When I listened to my playlist of favorites for this year, I was struck by how
+many of the releases shared a consistent sound. This was definitely the year of
+synthpop revival, chillwave and the seeds of vaporwave. 2011 has a distinct
+sound and I like it. Much of this music was designed to invoke non-specific
+memories of the 1980s. In retrospect, this music doesn't really have many
+direction connections to that decade, but it all sure sounds like 2011.
+
+.. image:: images/2011.jpg
+  :width: 900
+  :alt: My favorite albums from 2011
+
+.. raw:: html
+
+  <iframe
+  src="https://open.spotify.com/embed/playlist/5C8Ahoqy0Gibl4wj9zigXx?theme=0"
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+- *Night of Hunters* by **Tori Amos** - Tori makes peace with her classical
+  music roots and makes a brilliant record. Playing these reinterpretations of
+  instrumental music shows off her extreme skills on the piano. [*Memory*: I saw
+  her in NYC on this tour, and it was an amazing show. Having a rock band and a
+  chamber ensemble was a great way to see her music presented. "Shattering Sea"
+  was quite the show opener. Also found a great sushi place right by the venue.]
+
+- *Burst Apart* by **The Antlers** - They make a strong follow up to their
+  NPR famous prior record. This has the same enjoyable loud/soft dynamic, and
+  these guys are even giving into the synthpop bug a bit. Very pretty, and
+  something I am always in the mood for. [*Memory*: I saw them at Crossing
+  Brooklyn Ferry the next year and I was struck by how refined their performance
+  had become as a band. It was both a good and bad thing.]
+
+- *Parallax* by **Atlas Sound** - For a brief moment Bradford Cox was the most
+  compelling thing in music. His work from about 2008 to 2011 with Deerhunter
+  and this solo project is universally outstanding. The catching little, reverb
+  soaked tracks on offer here are both obvious and completely unique. "Angel is
+  Broken" is one of my favorite songs of all time. [*Memory*: Yet another great
+  performance from Crossing Brooklyn Ferry, Cox absolutely nailed almost this
+  entire album in a compelling solo set.]
+
+- *Smile* by **The Beach Boys** - All of a sudden it was a real album that
+  actually exists. It was surprising how exactly it matched the Brian Wilson
+  version that been released years prior. Was it made to match, was it always
+  supposed to sound this way? It sounds pretty much done, especially by 2010s
+  indie rock standards, and wow this fits right in with the music of the time.
+  Warm poppy psychedelic music at its finest, the world is better with this
+  album in it. [*Memory*: I was in the middle of a huge Beach Boys phase when
+  this was announced, and I bought the giant box set with all the extras.
+  Probably more than I needed.]
+
+- *Native Speaker* by **Braids** - I really miss the first iteration of this
+  band. The combination of spare electronics, strong percussion, and yelping
+  vocals was the best in Canadian indie rock in the strongest era of Canadian
+  music. They would make one more song in this style "In Kind" which is my
+  favorite song from this decade, though the album it would appear on is mostly
+  boring electronica. That is not the case here, this is one of the most
+  exciting records in my collection. [*Memory*: I loved the video of the band
+  performing "Plath Heart" and "In Kind" at the Polaris Prize gala in 2011, I
+  wish that I could still stream that amazing performance.]
+
+- *Zonoscope* by **Cut/Copy** - Much of the synthpop being made in 2011 was
+  alluding to an imagined, but non-existent alternative version of the 1980s.
+  Not these guys, they would have fit right in that decade. One of best "New
+  Wave Guy" voices of all time. I've always wondered if their name was an
+  acknowledgement of how much this music borrows from the past. Who cares, its
+  like New Order are still around making great new music. [*Memory*: Jumping up
+  and down to this stuff at Pitchfork 2011 with all the indie kids]
 
 2012
 ----

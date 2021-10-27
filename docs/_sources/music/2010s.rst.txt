@@ -5,6 +5,8 @@
   :width: 900
   :alt: Pitchfork Music Festival 2011
 
+2010s Overview
+--------------
 This was an interesting decade for music and for my relationship with music.
 When it began, we were at the point I like to call "peak indie" where a
 collection of small labels were releasing the most culturally relevant albums,
@@ -35,6 +37,42 @@ typically get labeled as contemporary classical. This was my Woodstock, lol.
 The rest of the decade, 75% of
 the live music I saw was the local symphony orchestra, This was where "I got
 old", but where exactly did it happen?
+
+2010s Stats/Favorites
+---------------------
+Section started: 12 Aug 2021
+
+Section complete:
+
+Latest update: 26 Oct 2021
+
+Total Albums: 
+
+Top Artists:
+
+Favorite album:
+
+Favorite Song:
+
+2011
+----
+When I listened to my playlist of favorites for this year, I was struck by how
+many of the releases shared a consistent sound. This was definitely the year of
+synthpop revival, chillwave and the seeds of vaporwave. 2011 has a distinct
+sound and I like it. Much of this music was designed to invoke non-specific
+memories of the 1980s. In retrospect, this music doesn't really have many
+direction connections to that decade, but it sure sounds like 2011.
+
+.. image:: images/2011.jpg
+  :width: 900
+  :alt: My favorite albums from 2011
+
+.. raw:: html
+
+  <iframe
+  src="https://open.spotify.com/embed/playlist/5C8Ahoqy0Gibl4wj9zigXx?theme=0"
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 2012
 ----
