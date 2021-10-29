@@ -40,29 +40,36 @@ old", but where exactly did it happen?
 
 2010s Stats/Favorites
 ---------------------
-Section started: 12 Aug 2021
+*Section started*: 12 Aug 2021
 
-Section complete:
+*Section complete*: TBD
 
-Latest update: 26 Oct 2021
+*Latest update*: 29 Oct 2021
 
-Total Albums: 179
+*Total Albums*: 179
 
-Top Artists:
+*Top Artists*:
 
 - 5 albums (2) - Beach House, Lana Del Rey
 
 - 4 albums (5) - Ariel Pink, Ghost, Son Lux, Sufjan Stevens, Steven Wilson
 
-Favorite album:
+*Favorite album*:
+
+At the risk of sounding like a cliche' indie music bro...
 
 *The Suburbs* by **The Arcade Fire**
 
-.. image:: Arcade_Fire_-_The_Suburbs.jpg
+.. image:: images/Arcade_Fire_-_The_Suburbs.jpg
   :width: 400
   :alt: My favorite albums from 2011
 
-Favorite Song:
+...but how in the world did this get the album of the year Grammy?
+
+*Favorite Song*:
+
+Braids made one of my favorite songs of all time and put it on a really boring
+electronic album:
 
 *In Kind* by **Braids**
 
