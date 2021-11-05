@@ -40,11 +40,11 @@ old", but where exactly did it happen?
 
 2010s Stats/Favorites
 ---------------------
-*Section started*: 12 Aug 2021
+*Section started*: 13 Aug 2021
 
 *Section complete*: TBD
 
-*Latest update*: 29 Oct 2021
+*Latest update*: 30 Oct 2021
 
 *Total Albums*: 179
 
@@ -79,6 +79,69 @@ electronic album:
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
   clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
+
+2010
+----
+I knew going in that this one was going to take a while. Just staging the
+below photograph took about an hour. I listened to more new music in 2010 than
+ever will again in any single year. This is the last year of doing things the
+old way (without Spotify) so I had to keep notes on what I was listening to,
+instead of making a playlist to keep track. Thanks to these notes, I know that I
+listened to (and rated!) 96 records in 2010. All 7 records I considered five
+stars out of five are on the list below, but 5(!) of the records that I gave 4.5
+stars are no longer are among my favorites:
+
+- *I Heart California* by **Admiral Radley** - I gave this more credit than it
+  deserved because I liked **Grandaddy** so much.
+
+- *Avi Buffalo* by **Avi Buffalo** - I'm horrified by the accusations against
+  the leader of this band, and can't bring myself to listen to them anymore.
+
+- *Crazy for You* by **Best Coast** - They were so disappointing live, I have
+  never been able to see their music the same way.
+
+- *Wilderness Heart* by **Black Mountain** - Too safe and derivative for me now.
+
+- *Epic* by **Sharon Van Etten** - Just sounds so boring to me now.
+
+This was my peak year of listening
+for a range of reasons. First, the indie music of the day was very much aligned
+with my tastes. Second, I had just moved to a new town (Rochester, NY) where I
+could see more live music, and spent quite a bit of time alone to indulge in my
+solitary hobbies like collecting music. Finally, I had mastered the old ways of
+discovering new artists, tracking down a way to get a taste, and acquiring the
+things I wanted to hear more of. It was easy and often inexpensive to get
+digital copies of pretty much anything, and I did. I'm also convinced that
+Spotify (released in the following year) through infinite choice is somehow
+making me less interested in finding new music. Or maybe I'm just getting old.
+
+This was also the last year that I bought CDs as a primary means of consuming
+music. At this point I recognized that the CDs were just a vehicle for ripping
+MP3s and had no additional value as a medium. I started out the year buying CDs,
+but stopped a few months in. I have since nearly re-bought nearly all my
+favorites on vinyl, a format that is an experience unto itself. From here on out
+you will still see a few CDs but they are all New Amsterdam label contemporary
+classical releases that aren't on vinyl, and in many cases cannot be streamed.
+
+Finally, this was the year the seeds of this project were begun. I had been
+making lists of my favorite albums for several years by the time 2010 came
+around. I decided to make a list of my favorite albums from the decade that had
+just ended, and after commencing the project started making new discoveries of
+new albums, and seeing old albums in new ways. The project expanded and got more
+complicated. Eleven years later, here we are.
+
+.. image:: images/2010.jpg
+  :width: 900
+  :alt: My favorite albums from 2010
+
+.. raw:: html
+  
+  <iframe 
+  src="https://open.spotify.com/embed/playlist/3xGqm4eEtQK2Lz36k6scpv?theme=0" 
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+Album list forthcoming
 
 2011
 ----
