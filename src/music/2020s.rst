@@ -73,9 +73,15 @@ albums by artists I already know well.
 
 2021
 ----
-Compiling my favorites here as they happen.
+This is the first year that was compiled with this project in progress, and in
+mind. How did this impact my listening? The impact is subtle, but I'm sensing an
+effort to branch out and hear new things (that aren't just random things I'm
+hearing on NPR). By this time 2021 ended, I had been working from home for
+almost two years. I'm also seeing the kind of introspective music that fit in
+well with that kind of isolation. I also feel the effect the pandemic on a sense
+of isolation and self reflection in many of the records I was listening to.
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/2021.jpg
   :width: 900
   :alt: Image forthcoming
 
@@ -85,6 +91,16 @@ Compiling my favorites here as they happen.
   src="https://open.spotify.com/embed/playlist/4hfNbM2di8sEjAnzMkylDm?theme=0" 
   width="100%" height="380" frameBorder="0" allowtransparency="true" 
   allow="encrypted-media"></iframe>
+
+- *The Nearer the Fountain, More Pure the Stream Flows* by **Damon Albarn** - I
+  really didn't like this the first time I heard it, but it really grew on me.
+  Such a pretty, subtle record. [*Memory*: I liked this record well enough to
+  seek out a vinyl copy, and it was really only after the first listen that way
+  that I really connected with this one, especially the last few tracks.]
+
+- *Ocean to Ocean* by **Tori Amos** - Another really strong record, from an
+  artist who keeps making them. Probably not as good as *Native Invader* but the
+  song "Spies" is her best in a decade or more.
 
 - *Cavalcade* by **Black Midi** - My favorite artist discovery in some years.
   (More than a decade maybe?). Some serious prog/math rock made with an indie spirit.
@@ -100,6 +116,14 @@ Compiling my favorites here as they happen.
   today. [*Memory*: It had been about five years since I had heard an album on
   vinyl for my first listen, and I was glad I saved this one]
 
+- *Jubilee* by **Japanese Breakfast** - We are now getting to the point where
+  music is starting to sound like a retro throwback to the indie music I
+  listened to in my college days. This is the kind of semi-twee indie pop that I
+  loved 20 years ago, updated with the electronic sounds of our current age.
+  [*Memory*: Around this time, It felt like every time Spotify radio took over
+  after the music I actually chose to play, it played me the song "Paprika". Did
+  this make me like the album by brute force?]
+
 - *Blue Banisters* by **Lana Del Rey** - How is this even better than her first
   album from 2021. How is she the most consistent artist of the current
   generation? What is the next album going to be like? Is it coming out this
@@ -113,12 +137,12 @@ Compiling my favorites here as they happen.
   hated the lead single when I heard it, but I love the album (and ended up
   liking the lead single in time)]
 
-- *Hey What* by **Low** - When I became aware that these guys were making
-  somewhat avant garde electronic music now, I had to hear it. Sure enough the
-  beautiful harmonies were now backed by a super interesting and downright
-  pretty interpretation of minimalist industrial. Are they really Mormons?
-  Surely music this good must be sinful? [*Memory*: In a repeating theme this
-  year, I bought a vinyl copy of this midway through my first listen]
+- *Hey What* by **Low** - [**2021 FAVORITE**] When I became aware that these
+  guys were making somewhat avant garde electronic music now, I had to hear it.
+  Sure enough the beautiful harmonies were now backed by a super interesting and
+  downright pretty interpretation of minimalist industrial. Are they really
+  Mormons? Surely music this good must be sinful? [*Memory*: In a repeating
+  theme this year, I bought a vinyl copy of this midway through my first listen]
 
 - *Tomorrows III* by **Son Lux** - Continuing my Star Wars analogy from last
   year, this is most definitely "Return of the Jedi" and "Embrace" is "Yub Nub"
@@ -133,3 +157,75 @@ Compiling my favorites here as they happen.
   [*Memory*: The creepy video for "PERSONAL SHOPPER" is all I can think of when
   I hear this album]
 
+2022
+----
+Compiling my favorites here as they happen.
+
+.. image:: images/image_forthcoming.jpg
+  :width: 900
+  :alt: Image forthcoming 
+
+.. raw:: html
+
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/5lGPs8K0b03NqikVaEhloJ?utm_source=generator&theme=0" 
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+- *WE* by **The Arcade Fire** - Now this is more like it! I'm not sure what was
+  going on during their prior record, but this is a massive improvement. Yes,
+  there is some truth to the favorite joke that this sounds like the band trying
+  to pay homage to their younger selves, but they are doing a great job! Best
+  case scenario continues to be this band slowly morphing into Bruce
+  Springsteen in the decades to come. [*Memory*: The first time I streamed the
+  "Lightning I" single it was an exciting moment. Not quite like hearing
+  "Sprawl II" for the first time, but the kind of joy only these guys can bring
+  up.]
+
+- *Once Twice Melody* by **Beach House** - It has become clear that all their
+  records will be great, but some are greater than others. This is one of the
+  top tier releases. More dreamy dream pop than we have seen since *Teen Dream*
+  but with the crisp, first rate song-craft of a veteran who have mastered their
+  art. [*Memory*: This was released in four 4-5 song increments, I ordered the
+  deluxe vinyl box after the first play of the first batch.]
+
+- *Ants From Up There* by **Black Country, New Road** - I'm always a little
+  suspicious when something is so universally loved. Everyone from Amazon to
+  RateYourMusic seems to think this is the consensus album of the year. When I
+  listened to it, I was shocked that something like this was getting such wide
+  acclaim. It reminds me of **Black Midi**, **Frightened Rabbit**, and **Thee
+  Silver Mt Zion** (?!). I guess this is what the kids like now. [*Memory*: I
+  really connected with this album for the first time on a walk around the Park
+  Avenue neighborhood, particularly the song "Snow Globes".]
+
+- *Imperium* by **Ghost** - They have changed the sound a bit again, but still a
+  great record. Not as long lasting as their last two releases, but I still had
+  a great time with this. "Darkness at the Heart of My Love" is a particularly
+  interesting new direction for these guys. [*Memory*: I ordered a vinyl copy of
+  this record before I heard a single song off of it. That is the faith I have
+  at this point.]
+
+- *Magnificent Bird* by **Gabriel Kahane** - The stellar folk song-craft we have
+  seen in the prior records, with some interesting new elements and instruments.
+  "Linda & Stuart" reminds me of Owen Pallett in a very favorable way. The title
+  track feels like Gabe's take on the Sufjan formula, and it really works out.
+  [*Memory: I heard this record for the first time on vinyl, and I listened to
+  it three times in a row.]
+
+- *Ghost Song* by **Cecile McLorin Salvant** - I generally don't like vocal
+  jazz, but I really like this. A great record of originals with a striking
+  cover of **Kate Bush**'s "Wuthering Heights". [*Memory*: In 2022 I
+  resubscribed to SiriusXM for the first time in about 15 years. Early on in the
+  pandemic they offered free streaming, and it eventually made me join back up
+  again. I heard the title track from this album on their jazz station and was
+  really struck by it. ]
+
+- *Laurel Hell* by **Mitski** - I had enjoyed several of her prior records,
+  particularly *Puberty 2* but they were never consistent enough to make my
+  list of favorites. I seem to like this one more than most folks. There is
+  something about the use of piano and the dense arrangements that really speak
+  to me. This is still a bit front loaded, but that first side is amazing.
+  [*Memory*: This was another discovery on the satellite radio. The Indie
+  channel was playing "Stay Soft" about every half hour and I was glad to hear
+  it.]
+  

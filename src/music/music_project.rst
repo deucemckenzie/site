@@ -148,5 +148,6 @@ Albums By Decade
    :maxdepth: 3
    :caption: Contents:
 
+   2000s
    2010s
    2020s
