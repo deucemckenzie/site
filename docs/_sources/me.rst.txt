@@ -17,7 +17,7 @@ Rochester, New York
  charset="utf-8"></script>
 
 - Data Engineer 
-- Student Pilot
+- Private Pilot
 - `Runner <https://www.strava.com/athletes/35137643>`_
 - `Record collector <https://www.discogs.com/user/deucemckenzie/collection>`_
 - Virtual Reality Enthusiast

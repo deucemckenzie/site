@@ -16,6 +16,46 @@ spanning the years of 1956 to the current day. I'm not sure how long this final
 portion of the project will take, and it is very possible the list could expand
 or morph significantly as I go.
 
+**UPDATE 7 Aug 2022:**
+
+I've been at this for one week short of a full year. In
+that time I have cataloged the years 2009-2021 working backwards. I have decided
+to keep a running list of my favorites from the current year as they happen. My
+list of favorites has grown by 32 to a total of 1026. I am not quite a quarter
+of the way through the process, and it this rate it will take another 3-4 years
+to finish the catalog. Interestingly the year 2009 was around the time that I
+started to think about doing something like this, though at that point the
+project was much smaller in scope and related to my favorite albums of the
+aughts. I look forward to taking on that project next.
+
+This started as a project 98% for myself and has probably
+ended up being more than 99% something that no one else would ever care about.
+The more personal it has become, the more I have enjoyed it. At some point when
+I got far enough back from the current day, I decided to add a personal memory
+to each record. This is as much my musical autobiography as it is my catalog of
+favorites.
+
+Someday I will update the analytic section, but for now here are a few summary
+statistics to capture things at this moment in time. I now own 826 of my
+favorites on vinyl. There are exactly 200 records that are not in my vinyl
+collection. Around 25 of these albums were never issued on vinyl, and over half
+of them I do not want to acquire for a variety of reasons. That leaves 52
+records that I would gladly add to my collection if I could find them at a
+reasonable price. That said only five of these are currently selling at a price
+I would be willing to give. At this point I'm almost leaving these titles as
+something to look for when I visit a record store. 
+
+One of the goals of this project was to build a collection that properly
+represented my tastes throughout life. Early in this project I realized that I was
+converging towards owning 80% of my favorites on vinyl. I crossed that threshold
+in July of 2022 with a special purchase. I imported a near mint copy of **From
+the Choirgirl Hotel** from Italy. It was a semi-extravagance that put a close to
+the era of significant vinyl acquisition. It now sits in a frame on my wall
+
+.. image:: images/tori_wall.jpg
+  :width: 900
+  :alt: My grail record?
+
 Why am I doing this?
 --------------------
 
