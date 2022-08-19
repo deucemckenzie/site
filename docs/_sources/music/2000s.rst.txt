@@ -48,7 +48,7 @@ mainstream music, the single was now again king, but album based rock music was
 somehow stronger than ever. Digital distribution had raised awareness of indie
 acts that in previous decades would have mostly toiled in obscurity and at best
 might have been the favorites of music nerds, and then only retrospectively
-discovered by listeners at large. In this era of music blogs, the obscure could
+be discovered by listeners at large. In this era of music blogs, the obscure could
 rapidly become ubiquitous, and attention was getting drawn to increasingly
 diverse models of what rock music could be.
 
@@ -64,17 +64,18 @@ started to buy my first digital albums from Amazon, but digital was eclipsed by
 CDs which were still the main way music was fining its way into my collection. I
 would visit City Lights records every Tuesday during my lunch break and leave
 with a clutch of the latest releases and likely a bunch of catalog titles I had
-special ordered. These were the crys of "the CD is dead" but I wasn't listening.
-I kept detailed records of every release that made it into my collection
-regardless of format and I know that the first album I bought (*Hissing Fauna,
-Are you the Destroyer?* by **Of Montreal**) was the 900th item cataloged. A full
-372 albums later, the 1272nd record (*Weirdo Rippers* by **No Age**) would be
-logged, surely the most music I have ever acquired in a single calendar year.
+special ordered. These were the first crys of "the CD is dead" but I wasn't
+listening. I kept detailed records of every release that made it into my
+collection regardless of format and I know that the first album I bought
+(*Hissing Fauna, Are you the Destroyer?* by **Of Montreal**) was the 900th item
+cataloged. A full 372 albums later, the 1272nd record (*Weirdo Rippers* by **No
+Age**) would be logged, surely the most music I have ever acquired in a single
+calendar year.
 
 Most of the music I was listening to was still from years gone by, but I was
 listening to more new music than I had ever done before. I have an interesting
 artifact from this time, the first comprehensive attempt I ever made at a best
-of the year list as a full grown adult. It isn't final version (unfortunately
+of the year list as a full grown adult. It isn't the final version (unfortunately
 lost to time) but an in progress version that I sent to myself via E-mail. I
 remember working on this list during my lunch breaks at work during the last
 months of the year, and I was sending it home to complete there over the holiday
@@ -83,22 +84,33 @@ what I considered to be my top 25 records at that time, and 20 of those still
 make my modern list. This is a much higher ratio than what would survive from my
 2009 favorites (see below), and I think this is a product of my ability to still
 listen with a kind of focus that the copious consumption facilitated by digital
-media would soon destroy.
+streaming would soon destroy.
 
 One of the five records that appeared on that original list of favorites that
 doesn't appear on my modern list feels like a case study in everything mentioned
 above. *In Rainbows* by **Radiohead** was the first "pay what you want", DRM
 free, digital release by a major, internationally famous rock band. Admittedly,
-they were a famous rock band that didn't much seem interested in being famous.
+they were a famous rock band that didn't seem very interested in being famous.
 At the time I have no doubt that I included it on my list because I thought that
 it was an important release, and 15 years later, I am convinced that it is one
 of the most important releases there has ever been. That said, it isn't a great
 album. Interestingly, as a band that became famous for working in the long form,
 it was mostly a miss as a long player. There are some killer singles on there
-though, and "Reckoner" is probably my favorite song of all from them, and one of
-the most beautiful rock songs ever made. It is hard to view this album separate
-from the context in which it was released, and I can't of a better way to
-summarize where pop music was in 2007 and my relationship with it.
+though, and "Reckoner" is probably my favorite song of all-time from them, and
+one of the most beautiful rock songs ever made. It is hard to view this album
+separate from the context in which it was released, and I can't of a better way
+to summarize where pop music was in 2007 and my relationship with it.
+
+.. image:: images/2008.jpg
+  :width: 900
+  :alt: My 2008 favorite albums
+
+.. raw:: html
+
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/54ilAeceSBVelfhppPOXuw?utm_source=generator&theme=0" 
+  width="100%" height="380" frameBorder="0" allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 2008
 ----
@@ -110,13 +122,14 @@ solo artist after the end of **Porcupine Tree**). The second thing I notice is
 how almost all of these were discovered as they came out and represent what I
 was actually listening to in 2008. Only the **Metronomy** and **William
 Brittelle** records were retrospective discoveries, and only by a year or two
-each. It almost seems like this is the most aligned I would be with what was
-hot and "now". This year also has the distinction of being the fist time I
-bought new albums on vinyl before I heard them in any other format. The other
-interesting note about formats is that I own no less than 11 of the albums below
-on both vinyl and CD. Unwilling to fully commit to the vinyl revival I was often
-getting new music on the small discs and making the upgrade when something
-became a favorite.
+each. It almost seems like this is the most aligned I would be with what was hot
+and "now". This year also has the distinction of being the year that I bought a
+turntable and started buying vinyl records (in November). It was here that I
+started the practice of buying my favorites on vinyl. Without streaming, new
+discoveries were often still made on CD, so I own no less than 11 of the albums
+below on both vinyl and CD. If it wasn't on eMusic, I was often getting new
+music on the small discs and making the upgrade when something became a
+favorite.
 
 .. image:: images/2008.jpg
   :width: 900
@@ -126,8 +139,8 @@ became a favorite.
 
   <iframe style="border-radius:12px" 
   src="https://open.spotify.com/embed/playlist/1kaeZR79MxCVk3u5szQcPY?utm_source=generator&theme=0" 
-  width="100%" height="380" frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; 
+  fullscreen; picture-in-picture"></iframe>
 
 - *Devotion* by **Beach House** - The second (and final) record in their
   original sound before moving to far bigger and more popular sonic territory. I

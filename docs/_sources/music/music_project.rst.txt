@@ -28,7 +28,7 @@ started to think about doing something like this, though at that point the
 project was much smaller in scope and related to my favorite albums of the
 aughts. I look forward to taking on that project next.
 
-This started as a project 98% for myself and has probably
+This started as a project 98% for myself and it has probably
 ended up being more than 99% something that no one else would ever care about.
 The more personal it has become, the more I have enjoyed it. At some point when
 I got far enough back from the current day, I decided to add a personal memory
