@@ -18,7 +18,7 @@ Coming Soon
 
 *Section complete*: TBD
 
-*Latest update*: 27 Aug 2022
+*Latest update*: 09 Sep 2022
 
 *Total Albums*: TBD
 
@@ -72,7 +72,7 @@ be the last year where no album found a way into my collection digitally.
   :alt: My 2005 favorite albums
 
 .. raw:: html
-  
+
   <iframe style="border-radius:12px" 
   src="https://open.spotify.com/embed/playlist/3qMJLuwCwQSfwfF938Hwlp?utm_source=generator&theme=0" 
   width="100%" height="380" frameBorder="0" allowfullscreen="" 
@@ -378,7 +378,9 @@ be the last year where no album found a way into my collection digitally.
   resisted for a while because of all the hype. It was the heartbreaking
   "Casimir Pulaski Day" that changed my mind. That story of a deeply religious
   young person questioning their faith after seeing their first love die of
-  cancer is one of the very best songs of all time.]
+  cancer is one of the very best songs of all time. This album was also highly
+  influential in my tastes going forward. I always saw myself a a rock guy, but
+  this got me on board with the lighter side of indie.]
 
 - *The Loon* by **Tapes 'n Tapes** - Another band that took the indie post-punk
   revival sound and added some additional, interesting elements. These guys like
