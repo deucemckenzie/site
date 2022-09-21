@@ -34,11 +34,150 @@ TBD
 
 TBD
 
+2003
+----
+
+Looking at the image below, I see a time that when I think about it seems so
+long ago, but somehow feels like only yesterday. This applies from both a
+music/technology standpoint, and my personal life. I remember it
+simultaneously like the beginning of the age I still live in, and the fragments of
+a very different time.
+
+In 2003 two major changes had come to how I consume music that in some form
+persist today. First, I would download the first commercially released digital
+music files that would enter my collection. Like almost anyone my age I had used
+applications like Napster, KaZaa, WinMX, and Limewire to download music since
+the late 90s, but the labels were finally starting to realize they should start
+selling the product that young consumers clearly wanted. Interestingly, it was the
+McDonald's Monopoly game that would lead me to Apple's nascent iTunes music
+store. In the Summer of 2003, the game pieces had a new feature in the form of a
+second chance code printed on every game piece. This code could be used to play
+an online game for a range of prizes. I forget the details, but somehow I had
+worked out the patterns where I was able to receive on nearly every play either:
+a free Snapfish digital print (I won hundreds, and still have some to this day)
+or a free iTunes download. My total winnings were several dozen downloads that I
+would spend on the latest indie hits or back catalog tracks on the store. I was
+a poor grad student living in Cleveland for the summer while I worked at NASA
+and Micky Ds made a great cheap meal. There were also lots of other folks around
+me who weren't exploiting the game that I could get extra game pieces from. What
+started humbly, would soon be the primary way me and pretty much everyone else
+would acquire music.
+
+The second big change was the introduction of both Sirius and XM satellite
+radio. Both services had a soft launch the year before, but 2003 was the start
+of the national push. It would be the first major challenge to legacy,
+commercial terrestrial radio, and would start a transition that internet radio
+and the streaming services would later complete. Shoutcast and other early
+internet streaming platforms had introduced me to the idea of expanded and niche
+radio playlists, but satellite made this technology professional and put it in
+my car. In the summer of 2003, during a visit back to State College on the
+weekend break from my responsibilities at NASA, I bought a Sirius plug-and-play
+radio at Best Buy. This unit had docking stations that allowed me to listen
+either in my vehicle or hooked up to a home stereo. I would quickly discover the
+stations Sirius Alt Nation and The Vault. These would expose me to the latest
+modern rock hits and semi-obscure classic rock respectively. While I was yet to
+discover the Sirius indie channel (Left of Center) there was extensive playlist
+crossover, and I was getting dialed into the exciting new developments on
+independent labels of the USA, UK, and Canada. What I was hearing an loving on
+Sirius was becoming what I spent those harvested iTunes downloads on. The
+pipeline of curated, genre programming was motivating digital consumption of new
+releases. This system largely persists today, though it is more likely Pandora
+or Spotify radio leading to streams on Spotify, Apple Music or YouTube.
+
+This was both the beginning of my independent adulthood, and a time that I can
+barely relate to anymore. I was still in school, but I now had a grad student
+position that could cover all of my expenses. For part of the year, I was living
+in Cleveland, which felt like an exotic far away place, and was the most
+distant place from my hometown I had ever spent a significant amount of time.
+My newly found financial independence and distance gave me the confidence to
+take a major step. Late in 2022, I finally let my family know I wanted nothing
+to do with the cult I was raised in. 2003 was the year when I started to work
+out what the future was going to be like. In a way, I was starting over as a
+young adult. It was a confusing time where I had to find meaning and stability
+outside of the harmful organization and limitations I had known before. It was
+scary and overwhelming, but more than anything it was incredibly exciting. A
+massive weight had been taken off of my shoulders, and I didn't know what I was
+going to do next. However, I knew for the first time in my life, right or wrong,
+it would be what I wanted to do.
+
+.. image:: images/2003.jpg
+  :width: 900
+  :alt: My 2003 favorite albums
+
+.. raw:: html
+
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/28T0n5LeiB2hE0HkDV9aS3?utm_source=generator&theme=0" 
+  width="100%" height="380" frameBorder="0" allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen;
+  picture-in-picture" 
+  loading="lazy"></iframe>
+
+- *These Are the Vistas* by **The Bad Plus** - I bin the work of these guys into
+  two groups, my favorite album (*Suspcious Activity?*) that was unique and
+  superior, and the rest. This is the best of the rest. We have the usual mix of
+  mostly rock covers, and a few originals. The improvisation is fairly out
+  there, but the familiar pop tunes ground the whole thing. The other records in
+  the "rest bit" are just like this, just not as good. [*Memory*: This was the
+  first record I went out and bought after hearing them on XM Beyond Jazz in
+  2006. It was good enough that I went out to get the rest, but with the noted
+  exception of *Suspicious Activity?* this would never be topped.]
+
+- *Dear Catastrophe Waitress* by **Bell and Sebastian** - At the time, this was
+  a very controversial record. The more polished pop sound offended the fans of
+  the earlier chamber folk focussed records. In retrospect, it doesn't feel as
+  radical as it was perceived at the time. Yes there is more production here,
+  and the songwriting feels a bit more ambitious, but this was more of a gradual
+  shift than it was taken to be at the time. In many ways, this is the last
+  record by the old version of the band with a few new elements that would point
+  to their future form. [*Memory*: This was my point of entry to this band, and
+  probably indie pop in general. I remember hearing "Stay Loose" playing on
+  Sirius Alt Nation while cooking out on the back deck of my grad school
+  apartment. That song (which I loved) was not representative of the album or
+  the band in general, but when I did get the album I really liked it as well. I
+  would gradually become a fan of pretty much their entire back catalog.]
+
+- *Reality* by **David Bowie** - The third, and probably best of the
+  neo-classical Bowie records. A reflective period where the artist was making
+  new music that was inspired by, but only tangentially related to his classic
+  70s records. A really perfect latter career record, and "Never Get Old" is one
+  of his very finest songs of all. [*Memory*: At the time I assumed that he
+  would go on forever making excellent records like this every few years, and
+  touring regularly. This would be his last record for more than a decade, and
+  his last tour ever.]
+
+- *Long Gone Before Daylight* by **The Cardigans** - What happened to these
+  guys? They were such a happy pop band, but now they are making sad
+  country-esque songs. The singer even went from blonde to full black hair goth.
+  It works pretty well though. A really enjoyable, if a subdued and somewhat
+  downtrodden record. [*Memory*: I remember listening to this frequently during
+  my early days in my first job. I apparently didn't buy this until it had been
+  out for a few years.]
+
+- *Transatlanticism* by **Death Cab for Cutie** - I've always wondered how much
+  of the breakout success of this record was due to the massive success of the
+  **Postal Service** record right before this. That said, Ben Gibbard's primary
+  band hit the bit time after this one. This was their last records as an indie
+  rock artist, as the majors and the arenas would be waiting. This still stands
+  as their finest work, and the lack of perfect polish adds a charm missing in
+  their later work. [*Memory*: I don't know that any song is more 2003 than
+  "Title and Registration." When I hear all about that glove compartment I'm
+  taken back to the world of my 23 year-old self.]
+
+- *Apple O'* by **Deerhoof** - Their early albums are interesting, but a little
+  too rough around the edges to be totally listenable. They got things together
+  here, and while this still has a serious edge, it always centers itself in a
+  way that make it digestible. Lots of wild drumming, heavy guitars, and cutesy
+  weirdness. This is the formula that would make for their strongest stretch of
+  records. [*Memory*: My vinyl copy of this was a record store day exclusive. I
+  miss when RSD was more about the kind of small label artists that need those
+  kinds of special releases.]
+
 2004
 ----
 
 This was the year that indie broke into the public consciousness, thanks to a
-couple key records that had come out that year, and late in the previous.
+string of key records that had come out that year, and the previous.
 Admittedly I had been progressively starting to listen to this kind of music
 without totally realizing it. Today it is easy to draw a line between the kind
 of alt rock that grew out of the late 90s and the indie rock that would dominate
@@ -379,7 +518,7 @@ discover good new music emboldened me to  This would be the year where I bought
 my last CDs from the last remaining record club, Columbia House. It would also
 be the last year where no album found a way into my collection digitally.
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/2005.jpg
   :width: 900
   :alt: My 2005 favorite albums
 
