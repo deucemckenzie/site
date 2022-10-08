@@ -62,7 +62,7 @@ At the risk of sounding like a cliche' indie music bro...
 
 .. image:: images/Arcade_Fire_-_The_Suburbs.jpg
   :width: 400
-  :alt: My favorite albums from 2011
+  :alt: My favorite album from the 2010s
 
 ...but how in the world did this get the album of the year Grammy?
 
@@ -71,7 +71,7 @@ At the risk of sounding like a cliche' indie music bro...
 Braids made one of my favorite songs of all time and put it on a really boring
 electronic album:
 
-*In Kind* by **Braids**
+"In Kind" by **Braids**
 
 .. raw:: html
 
