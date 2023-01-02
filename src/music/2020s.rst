@@ -48,12 +48,12 @@ albums by artists I already know well.
   that he can make music like this at his age and career state. [*Memory*: Hearing
   that this existed was welcome good news in one of the roughest periods of my life]
 
-- *Tomorrows I* by **Son Lux** - [**2020 FAVORITE**] Another welcome distraction
-  in the lost year was the
-  three part epic by Ryan Lott and band. The albums play out more like films in
-  a trilogy than a multi-movement musical piece. This one does a great job
-  setting up the themes and concepts of the whole work. [*Memory*: This was
-  released right after I moved back to Rochester] 
+- *Tomorrows I* by **Son Lux** - [**2020 FAVORITE**] - Another welcome
+  distraction in the lost year was the three part epic by Ryan Lott and band.
+  The albums play out more like films in a trilogy than a multi-movement musical
+  piece. This one does a great job setting up the themes and concepts of the
+  whole work. [*Memory*: This was released right after I moved back to
+  Rochester] 
 
 - *Tomorrows II* by **Son Lux** - If part one was A New Hope, this definitely is
   Empire Strikes Back. Everything is shaken up and broken apart. The reviews I
@@ -83,7 +83,7 @@ of isolation and self reflection in many of the records I was listening to.
 
 .. image:: images/2021.jpg
   :width: 900
-  :alt: Image forthcoming
+  :alt: My favorite albums from 2021
 
 .. raw:: html
 
@@ -139,7 +139,7 @@ of isolation and self reflection in many of the records I was listening to.
   hated the lead single when I heard it, but I love the album (and ended up
   liking the lead single in time)]
 
-- *Hey What* by **Low** - [**2021 FAVORITE**] When I became aware that these
+- *Hey What* by **Low** - [**2021 FAVORITE**] - When I became aware that these
   guys were making somewhat avant garde electronic music now, I had to hear it.
   Sure enough the beautiful harmonies were now backed by a super interesting and
   downright pretty interpretation of minimalist industrial. Are they really
@@ -161,11 +161,19 @@ of isolation and self reflection in many of the records I was listening to.
 
 2022
 ----
-Compiling my favorites here as they happen.
 
-.. image:: images/image_forthcoming.jpg
+Again, I feel like this project has had a significant impact on my listening for
+the year. In this case, I wasn't seeking out new music as much as I focused on
+assembling my favorites into as comprehensive of a vinyl collection as possible.
+This was the year where I crossed the threshold of owning 80% of the records
+captured here (82.3% and 848/1030 as I write this on 1 January 2023). That total
+includes each of the nine records I enjoy from the year in question. I had a
+really tough time picking a top favorite this year, and probably four of the
+albums below are in a virtual tie.
+
+.. image:: images/2022.jpg
   :width: 900
-  :alt: Image forthcoming 
+  :alt: My favorite albums from 2022
 
 .. raw:: html
 
@@ -173,6 +181,15 @@ Compiling my favorites here as they happen.
   src="https://open.spotify.com/embed/playlist/5lGPs8K0b03NqikVaEhloJ?utm_source=generator&theme=0" 
   width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; 
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+- *Blue Rev* by **Alvvays** - So much of the best indie that is coming out today
+  sounds like it is from ten years ago. It is too soon for this kind of thing to
+  be nostalgia, so I assume that this kind of shoegazy, quasi-electronic indie
+  is a genre unto itself now. They have done a great job with it here.
+  [*Memory*: This year I did something I haven't done for the last few years,
+  when I checked what the various music blogs and review sites were picking as
+  the best albums of the year. I tried out a few things that sounded
+  interesting, and this was the only thing that stuck.]
 
 - *WE* by **The Arcade Fire** - Now this is more like it! I'm not sure what was
   going on during their prior record, but this is a massive improvement. Yes,
@@ -184,15 +201,15 @@ Compiling my favorites here as they happen.
   "Sprawl II" for the first time, but the kind of joy only these guys can bring
   up.]
 
-- *The Car* by **Arctic Monkeys** - The progression into more subtle, artier
-  music has continued. So has my growing appreciation for their work. I had to
-  spend some time with it, but I think this might be my favorite of theirs so
-  far. A fascinating collection of lounge/soul inspired tracks, with several of
-  their very best, especially the stunning "Body Paint". I can't wait to see
-  where they go next. [*Memory*: I was more excited about the release of this
-  record than any other in 2022. I really liked the last one, even if it went
-  over most folks heads. With this album it looks like their maturing sound is
-  starting to catch on.]
+- *The Car* by **Arctic Monkeys** - [**2022 FAVORITE**] - The progression into
+  more subtle, artier music has continued. So has my growing appreciation for
+  their work. I had to spend some time with it, but I think this might be my
+  favorite of theirs so far. A fascinating collection of lounge/soul inspired
+  tracks, with several of their very best, especially the stunning "Body Paint".
+  I can't wait to see where they go next. [*Memory*: I was more excited about
+  the release of this record than any other in 2022. I really liked the last
+  one, even if it went over most folks heads. With this album it looks like
+  their maturing sound is starting to catch on.]
 
 - *Once Twice Melody* by **Beach House** - It has become clear that all their
   records will be great, but some are greater than others. This is one of the
