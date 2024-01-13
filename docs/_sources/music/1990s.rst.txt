@@ -15,7 +15,7 @@ TBD
 
 *Section complete*: TBD
 
-*Latest update*: 2 January 2023
+*Latest update*: 13 January 2024
 
 *Total Albums*: TBD
 
@@ -50,7 +50,70 @@ time, the Internet. We didn't yet have MP3s for music discovery, but static
 webpages of dial-up and Web 1.0 were a wealth of information about the latest
 activity and releases from my favorite artists. We had recently subscribed to
 AOL at home, and it opened my eyes to a range of information about pop music and
-a variety of other topics. 
+a variety of other topics.
+
+.. image:: images/image_forthcoming.jpg
+  :width: 900
+  :alt: My favorite albums from 1997
+
+.. raw:: html
+
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/4gyDMP7YhOyQqP9bXYdLLv?utm_source=generator" 
+  width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; 
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"></iframe>
+  
+- *Primeirs Symptomes* by **Air** - An EP that serves as a great summary of what
+  makes these guys great. Light and pleasant French electronica, with an indie
+  rawness that made it sound more warm than slick. [*Memory*: I was aware of
+  this disk for years before I got a copy. The physical release was always an
+  expensive import, but through the magic of eMusic, I would get a digital copy
+  years later, and finally had the complete catalog of this band.]
+
+- *Earthling* by **David Bowie** - I'm proud to say that I have always been a
+  fan of 90s Bowie, even when others (even if they wont admit it now) were
+  saying he was over the hill. Some of the electronic sounds are dated now, but
+  it only adds to the charm. That Bowie magic is still here in a big way.
+  "Battle for Britain" is one of my absolute favorites of his without
+  qualification. [*Memory*: This brings together two of my biggest interests in
+  1997: Bowie and The Internet. Bowie was famously and early advocate for the
+  web, and one of the first artists to fully harness its power. I vividly
+  remember viewing a RealVideo encoded file at extremely low bitrate of the
+  video for the lead single "Little Wonder". The sounds and the technology blew
+  my teenage mind.]
+
+- *Karma* by **Delerium** - My absolute favorite by these guys also happens to
+  be their most widely known. I do enjoy the **Sarah McLachlan** fronted mega-hit
+  "Silence" (and the late 90s is the only time something like this would be a
+  hit) but my favorite is the stunning "Euphoria (Firefly)". The combination of
+  light industrial beats and world music exoticism reached a peak on this
+  record. [*Memory*: I remember playing this for one of my friends on a drive,
+  and their reaction was: "So this is the kind of music you are into now, huh?"]
+
+- *A Short Album About Love* by **The Divine Comedy** - The artist claims to
+  have written this album before ever actually being in love, and I think it
+  shows. There is something charmingly detached about this collection of love
+  songs. A lot of the usual humour ("If") and warmth ("Everybody Knows") that
+  would typify the second act for this guy. Probably the beginning of the fully
+  mature work for Neil Hannon, and one of his absolute finest moments.
+  [*Memory*: When the vinyl reissues came out in 2020, it really made me see the
+  whole discography in a new light. I don't know if any album climbed my
+  personal ranking more than this one. It really is the kind of thing that needs
+  to be listened to in whole, and hits hard in its short running length.]
+
+- *So Much for the Afterglow* by **Everclear** - Music from this era hasn't aged
+  very gracefully. Mostly a collection of post-grunge, nu-metal, and pop-punk,
+  late 90s rock was a collection of fads that haven't generally stood the test
+  of time. The combination of power pop and mature singer songwriter themes on
+  display here have held up way better than most of the rock radio favorites of
+  the day. Also a pretty killer record from start to finish, which is also a
+  rarity for the era. [*Memory*: This is one of the few records from this year's
+  list that I was actual into at the time of release. I really enjoyed the radio
+  hits, but it was the deep cut "Why I Don't Believe in God" that made this a
+  classic album of my teen years. It really connected with where I was at this
+  point in my life, and also made me love the banjo as a rock instrument...until
+  a bunch of hacks ruined that in the 2010s.]
 
 1998
 ----
@@ -66,7 +129,7 @@ time for music and the below list is very much in that spirit.
 
 .. image:: images/image_forthcoming.jpg
   :width: 900
-  :alt: My favorite albums from 1999
+  :alt: My favorite albums from 1998
 
 .. raw:: html
 
@@ -233,6 +296,19 @@ time for music and the below list is very much in that spirit.
   rest of their catalog sorely lacking. [*Memory*: Yet another find from the
   CD-R exchange at work. This was how I found music after commercial radio and
   before the rise of the MP3.]
+
+- *Great Expectations (Soundtrack)* by **Various Artists** - The last of the
+  great compilation soundtracks in my opinion. They really don't make them like
+  this anymore. At the time it was a curiosity as the solo debut of both **Chris
+  Cornell** and **Scott Weiland**. It also served as a mid-career reboot for
+  **Tori Amos** who took her singer songwriting to a more complex and upbeat
+  place that would anticipate her next few records. Sprinkle in some light
+  French electronica from **Mono** and we have a late 90s gem, and a great
+  farewell to an album format that was huge in the 80s/90s. [*Memory*: I bought
+  this record on the way back from a scholarship interview in Philadelphia. I
+  made a targeted trip to the Coventry Mall based exclusively upon the music I
+  heard in the trailer for the film. It turned out to be a fantastic record and
+  my point of entry to one of my favorite artists, **Tori Amos**]
 
 1999
 ----
