@@ -16,6 +16,35 @@ spanning the years of 1956 to the current day. I'm not sure how long this final
 portion of the project will take, and it is very possible the list could expand
 or morph significantly as I go.
 
+**UPDATE 26 Jan 2024**
+
+I have been trying to do a check-in about every year, and this one is a little
+behind that schedule. That said, things continue to progress at a fairly decent
+rate. In the almost 18 months since the last update, I have completed years
+1995-2008 and continue my journey through the 90s. I have passed an interesting
+milestone working backward through the years. I'm now finding that the large
+majority of my favorite albums for a year were discovered well after release. It
+won't be long until I get to the point where I will have been too young to have
+even been aware of the my favorites in their year of release. I have a new goal
+of trying to finish this site before the year 2025, which would make the list
+span an even 70 years at completion.
+
+The work slowed down in early 2023 when I made another batch of purchases to
+fill gaps in the vinyl collection of my favorites. That effort, plus a
+surprising number of vinyl reissues has greatly reduced the percentage of
+favorites that I do not own as an LP. As I type this, my list stands at 1103
+albums, of which 973 I own on my preferred format. This is a ratio of 88%, and a
+big increase over the last update on statistics. That said, the significant
+progress has led me to a state where there aren't many opportunities for
+additional increases. Of the 130 I do not own on vinyl, I only care to add 26 in
+that format. Eight of those albums have never been pressed as a record, or were
+made in such a small volume that I am likely to never see a copy in the wild. Of
+the remaining set, only five ever are sold for less than $100. I do expect to
+continue to add new favorites, and occasionally add records already on the list,
+but progress in this area will be slowing down significantly. This is a good
+thing, because I really don't have much room for more records. It does seem that
+very slowly over time I may converge to 90%.
+
 **UPDATE 7 Aug 2022:**
 
 I've been at this for one week short of a full year. In
