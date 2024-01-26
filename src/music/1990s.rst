@@ -31,6 +31,107 @@ TBD
 
 TBD
 
+1996
+----
+
+When I look at the below image, I can confidently say that I didn't hear any of
+these records in the year of their release. I was very familiar with, and a fan
+of many songs off of these albums, but none had found their way into my
+collection. This is partly because I was very much in the peak of my backward
+looking Beatlemania, and making my first explorations into growing favorites
+like **Pink Floyd** and **David Bowie**. It was also because many of the new
+artists I was interested in, seemed to conflict with the religious convictions
+of my parents. It is strange to think about now, but back then artists like
+**Soundgarden**, **Stone Temple Pilots**, and even **Jamiroquai** felt slightly
+dangerous and out of step with the conservative values of my family.
+
+Thinking about this selection today, this feels like a pivot year between the
+rock heavy early 90s and the rise of pop in the latter half of the decade. There
+are also quite a few indie classics there, including a few landmark albums that
+would be very influential on the dominant music trends of the next decade
+(**Belle and Sebastian**, **Stereolab**, **Olivia Tremor Control**,
+**Tortoise**). Finally, Britpop is starting to reach full bloom with classics
+from **Divine Comedy** and **Manic Street Preachers**, and an American band has
+decided to join in (**Lilys**). If there a single dominant theme here, it is
+without question garage rock. That influence can be heard in artists as diverse
+as **Olivia Tremor Control**, **Pearl Jam**, **Lilys** and especially here in
+the album by **Stone Temple Pilots**. Its really clear to see the roots of 2000s
+indie in many of the albums listed here.
+
+.. image:: images/1996.jpg
+  :width: 900
+  :alt: My favorite albums from 1996
+
+.. raw:: html
+
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/2pyhYKrUf1bRFtr1W0rDCz?utm_source=generator&theme=0" 
+  width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay;
+  clipboard-write; 
+  aencrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- *Boys for Pele* by **Tori Amos** - A remarkable record, produced by an artist
+  who was experiencing a significant level of artistic freedom for the first
+  time. While we have the first elements of the electronic music that would
+  dominate the next few records, this is mostly still an acoustic, piano driven
+  affair. The song structure and the fundamental structure of the album is quite
+  different from anything that had really come before by any artist. The lyrics
+  are more impenetrable than anything on her first two records, but they are
+  evocative of multitude of emotions. I don't know that there is another album
+  where I understand so poorly what the artist is singing about, but I know
+  exactly what they mean. So many of my favorite songs of all time are on this
+  album, and it is one that I will never tire of. [*Memory*: When I was in grad
+  school, I met a woman studying in another program through a friend in her lab.
+  We connected very deeply over this record, and the next three times our friend
+  group met up at the bar, we spent the entire evening chatting. I'm pretty sure
+  everyone else thought we were going to start dating. I might have even thought
+  that for a brief moment, but we really both just really like that album, and
+  the artist.]
+
+- *Tidal* by **Fiona Apple** - This feels so conventional by the modern
+  standards of the artist. The first album is definitely quite a bit more
+  straightforward than what was to come, but no less interesting. The moody,
+  singer-songwriter material on offer here is just as stunning today as it was
+  back then. "Criminal" was the big hit back then, as much for its lolita-esque
+  music video, as the song it was promoting. Most of the other material holds up
+  much better today, especially "Shadowboxer" and the softer tracks like
+  "Sullen Girl" and "Never is a Promise". [*Memory*: I got my copy of this album
+  from my sister as a hand me down in the summer of 1998. She didn't connect
+  with it beyond "Criminal". I was in the heights of my **Tori**-mania and this
+  was a great fit for that time in my life. This album brings back vivid
+  memories of driving my metallic purple 1997 Dodge Neon to the Penn
+  State satellite campus I attended in Reading, PA. Many of those freshman
+  mornings I would have this in the Sony Discman that was playing though a
+  cassette deck adapter.]
+
+- *If You're Feeling Sinister* by **Belle and Sebastian** - One of their best
+  albums, but unlike most fans, I do not consider it to be their very best. This
+  is a tremendous indie-folk record, but for me it isn't quite as effective as
+  the more spare, unpolished EPs that came before, or the slicker poppier music
+  that would come in the next decade. However, there are some great tracks here,
+  especially "Like Dylan in the Movies" and "Seeing Other People". [*Memory*:
+  These guys dominated my listening in the 2004-2006 time frame. This is the
+  soundtrack to the end of my academic career and start of my first job.]
+
+- *First Band on the Moon* by **The Cardigans** - "Lovefool" was a massive hit,
+  and while a great song, it sells these guys a bit short. The kind of pop music
+  that can only come from Scandinavia, this is sweet, but surprisingly moody
+  music. It would get even darker from here on out, but there is a real chill to
+  the atmospherics and songwriting on this record. [*Memory*: I was listening to
+  this a lot in the Summer of 1999, and it reminds me very much of my first
+  engineering internship. I would listen to CDs on my Windows NT machine that I
+  used make CAD drawings. This was one of the discs that was on repeat.]
+
+- *Casanova* by **Divine Comedy** - There are many of the typical elements here:
+  the sense of humor, the chamber pop sensibility, the layered harmonies by the
+  artist. However, this is the closest this guy has ever come to actually making
+  Britpop. It is the eccentric kind of Britpop made by the likes of **Blur**,
+  and it isn't quite all the way there, but if you squint, it is there. For many
+  folks this is the best record, for me it is in the middle of a very strong
+  pack of records. [*Memory*: This was the second album I tried from this guy
+  after losing my mind listening to **Promenade** repeatedly for about 5 years.
+  I remember wondering why I waited so long to dig deeper.]
+
 1997
 ----
 
@@ -52,7 +153,7 @@ activity and releases from my favorite artists. We had recently subscribed to
 AOL at home, and it opened my eyes to a range of information about pop music and
 a variety of other topics.
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/1997.jpg
   :width: 900
   :alt: My favorite albums from 1997
 
@@ -83,13 +184,14 @@ a variety of other topics.
   video for the lead single "Little Wonder". The sounds and the technology blew
   my teenage mind.]
 
-- *Karma* by **Delerium** - My absolute favorite by these guys also happens to
-  be their most widely known. I do enjoy the **Sarah McLachlan** fronted mega-hit
-  "Silence" (and the late 90s is the only time something like this would be a
-  hit) but my favorite is the stunning "Euphoria (Firefly)". The combination of
-  light industrial beats and world music exoticism reached a peak on this
-  record. [*Memory*: I remember playing this for one of my friends on a drive,
-  and their reaction was: "So this is the kind of music you are into now, huh?"]
+- *Karma* by **Delerium** - [**1997 FAVORITE**] - My absolute favorite by these
+  guys also happens to be their most widely known. I do enjoy the **Sarah
+  McLachlan** fronted mega-hit "Silence" (and the late 90s is the only time
+  something like this would be a hit) but my favorite is the stunning "Euphoria
+  (Firefly)". The combination of light industrial beats and world music
+  exoticism reached a peak on this record. [*Memory*: I remember playing this
+  for one of my friends on a drive, and their reaction was: "So this is the kind
+  of music you are into now, huh?"]
 
 - *A Short Album About Love* by **The Divine Comedy** - The artist claims to
   have written this album before ever actually being in love, and I think it
@@ -109,11 +211,140 @@ a variety of other topics.
   display here have held up way better than most of the rock radio favorites of
   the day. Also a pretty killer record from start to finish, which is also a
   rarity for the era. [*Memory*: This is one of the few records from this year's
-  list that I was actual into at the time of release. I really enjoyed the radio
+  list that I was actually into at the time of release. I really enjoyed the radio
   hits, but it was the deep cut "Why I Don't Believe in God" that made this a
   classic album of my teen years. It really connected with where I was at this
   point in my life, and also made me love the banjo as a rock instrument...until
   a bunch of hacks ruined that in the 2010s.]
+
+- *F# A# ∞* by **Godspeed You! Black Emperor** - The start of the journey for
+  these guys, and for the genre of chamber, apocalyptic post-rock as well.
+  Everything that they continue to do is already fully formed here. I don't come
+  back to this one as much, because I feel like the formula was refined in the
+  later albums, but I always enjoy it when I do. Perhaps a bit more ambient with
+  meandering soundscapes that have been reduced in later efforts, and with a
+  generally lighter touch than the crescendo heavy later works. [*Memory*: The
+  **Godspeed** records seem to have always been perpetually in print on vinyl,
+  and I was able to buy this and complete my catalog of LPs back in the dark
+  ages of circa 2009.]
+
+- *Mi  Media Naranja* by **Labradford** - In the 90s and early 2000s, **Ennio
+  Morricone** inspired post-rock was a fairly productive sub-genre. A lot of the
+  music sounds very much the same, and for me, this is the best product of that
+  scene. Moody, vaguely western soundscapes, that sound hopeless and spacious.
+  I'm not in the mood for this very often these days, but wow was I about 15-20
+  years ago. [*Memory*: This is the kind of record I would have never found
+  without the AllMusicGuide. Fairly obscure when I found it, and even more
+  obscure today, the AMG article on post-rock considered it a landmark of the
+  genre. I'm glad that it pointed me this way.]
+
+- *Flaming Pie* by **Paul McCartney** - In retrospect, this feels like one of
+  the most important albums in a very important career. For the first time you can
+  hear him coming to terms with his **Beatles** past, and fully engaging with a
+  musical future that both considers with what came before, and what lies ahead.
+  This was also the last record with the input and presence of his collaborator
+  in music and life, Linda. This is where things really started to come
+  together, and the brilliant final act of a brilliant musical career had it's
+  start. [*Memory*: This was definitely the record I was most excited for at the
+  time. I was in the peak of my **Beatles** & **McCartney** fandom, and this was
+  the first new release since I had discovered these artists (other than the
+  archival "Anthology" and "Live at the BBC" releases). I remember logging into
+  the MPL Records website to view the latest posts to the "Flamming Pie Gazette"
+  that provided updates on the production of the record. I was so excited to
+  hear a short clip of "The World Tonight" in RealVideo format. This record
+  invokes nostalgia not just for the music, but also the early web.]
+
+- *Surfacing* by **Sarah McLachlan** - This is one of those records that I
+  really enjoy, but wonder if its lasting effect has been negative. Up to this
+  point, women's music had been arguably the highlight of 90s pop/rock. The likes
+  of **PJ Harvey**, **Tori Amos**, **Alanis** and countless other women were
+  making stunning, edgy work that was finding its way to the mainstream against
+  all odds. Once the record execs got a look at this lush, pretty record, it
+  felt like there was a massive shift in what they were willing to promote. I
+  certainly don't want to blame **McLachlan** who is a master at this kind of
+  music, but why couldn't it live side by side with all that other really
+  awesome stuff that wasn't as easy to fit into the background of TV
+  commercials? [*Memory*: I heard "Building a Mystery" for the first time while
+  exercising at my physical therapist during a recovery session after breaking
+  my left ankle.]
+
+- *Cherry Peel* by **Of Montreal** - Where it all began for Kevin Barnes, it
+  sounds stunningly small compared to where he would take his music. A
+  collection of good natured, lowfi pop songs with imaginative lyrics and
+  melodies, this project was solid from day one. "I can't Stop Your Memory" is a
+  tiny masterpiece of retro-pop. It almost sounds like the 1967 **Beatles**
+  going back and making music the way they did in 1961. [*Memory*: Thanks to
+  eMusic, I probably heard this album years before I otherwise would have. The
+  cheap mp3 downloads allowed me to explore obscure back catalog records like
+  this one years before streaming made this trivial.]
+
+- *Brighten the Corners* by **Pavement** - A bit more put together than we are
+  used to from these guys,  but still had enough of that shambolic magic. That
+  said, this is clearly the work of a band and a front man who were starting to
+  outgrow their fundamental concept. [*Memory*: About 20 years after the release
+  of this record, Spotify radio kept playing the song "Harness Your Hopes" and I
+  couldn't figure out why I didn't know the track. Apparently left of this
+  album, how in the world did one of the most representatively perfect
+  **Pavement** songs not make the track list?]
+
+- *OK Computer* by **Radiohead** - For a significant number of folks, this is
+  the best album of the 90s, but it isn't even my top **Radiohead**
+  album of the decade. That said, it still is a classic transition record,
+  spanning their Britpop roots and the dreary, mixed-genre weirdness to come. I
+  feel like the best moments here are the quiet tracks like "Exit Music (For a
+  Film)" and "Lucky". A few albums later they would learn to rock out more
+  effectively again. [*Memory*: Ironically (given the role they would later play
+  in legal downloads) this album reminds me more of the Napster era than any
+  other. I wasn't totally ready to buy into these guys as the next big thing,
+  but I was happy to download a bunch of their stuff for no money. I now have
+  this, and many of their albums, on both CD and vinyl.]
+
+- *Unsound Methods* by **Recoil** - I don't find myself listening to **Alan
+  Wilder**'s dark ambient project much these days, but I certainly found it very
+  compelling 20 or so years ago. Some of this sounds a bit silly and dated now,
+  and not edgy in the way it did back then. The more goth tracks like "Incubus"
+  have aged better than the beat poetry based things like "Luscious Apparatus".
+  Probably best enjoyed as a late 90s time capsule now. [*Memory*: I got this at
+  one of those "used goods" stores that were everywhere in the late 90s. The
+  shop (Cash Converters) was often a great source of underrated records by
+  popular artists, and obscure gems like this.]
+
+- *Either/Or* by **Elliot Smith** - This is a stunning little collection of
+  gentle indie rock tunes. The most beautiful anyone had made sadness sound
+  since **Nick Drake**. [*Memory*: Like many folks, I didn't properly get into
+  his music until his passing in 2004. It would take me to acquire this
+  masterpiece, but it was one of the first bunch of Emusic downloads I made in
+  early 2006.]
+
+- *Hard Normal Daddy* by **Squarepusher** - If there was ever a genre I wanted
+  more of, it would be whatever this is. This distinctively funky brand of
+  break beat laden, jazz-tronica is very unique. This guy is somewhat a genre
+  unto himself. That said, the early albums all sound fairly similar, and this
+  is far and above the best of the bunch. [*Memory*: I discovered this guy on
+  the jazz-tronica show on XM Beyond Jazz, and was able to get his most recent
+  work. I knew from the AMG and other sources, this was considered his finest
+  work. I would have had to import an expensive CD copy from England on Amazon,
+  so this was an early Amazon download for me.]
+
+- *Radiator* by **Super Furry Animals** - Warm and comfy indie rock, with some
+  clear links to late 60s **Beatles**-like psych. This gets lumped in with the
+  Britpop crowd, but that link is more temporal than musical. A really fun
+  record that is quite a breath of fresh air next to the dreary American rock
+  music of the day. [*Memory*: Another classic record that I found out about on
+  the various music retrospective sites of the early 2000s. Back then you had to
+  import CD copies of this kind of thing, and I did.]
+
+- *Urban Hymns* by **The Verve** - Sometimes a song can be too good that it
+  overshadows a fantastic album. So it is with "Bitter Sweet Symphony" and this
+  record. That song was so ubiquitous in 1997, that all the other gems on this
+  album tend to go unremembered. That soaring symphonic sample on "Symphony"
+  tends to obscure more subtle mini-masterpieces like "Luck Man", "Sonnet", and
+  especially "The Drugs Don't Work". [*Memory*: I was sitting in a high school
+  class (Tech Lab 2000) when one of my fellow students put on this CD, and I
+  heard "Bitter Sweet Symphony" for the first time. Everyone in the classroom
+  loved it. Weeks later I was totally sick of a song that had become massive and
+  unavoidable. I never considered buying a copy for myself. I wouldn't pick up
+  the disk until a year or two had passed, and I was floored by what I heard.]
 
 1998
 ----
@@ -127,7 +358,7 @@ discovered in the last two decades of my life. In retrospect it was a
 diverse and memorable year for music. The late 90s were a crazy anything goes
 time for music and the below list is very much in that spirit. 
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/1998.jpg
   :width: 900
   :alt: My favorite albums from 1998
 
@@ -153,18 +384,18 @@ time for music and the below list is very much in that spirit.
   **Creed** concert (of all places!) a year or so later I realized that I
   actually love it. That remains true today.]
 
-- *From the Choirgirl Hotel* by **Tori Amos** - The creative peak of her early
-  period, this is a fantastic record. I still prefer the rawness of **Pele**
-  ever so slightly, but this is definitely my second favorite of her albums.
-  This managed to both turn up the rock band elements, while adding in strong
-  elements of electronic music. The top rate vocals and piano are are still
-  there of course along with some of the last songwriting in the original **Tori
-  Amos** style that we would hear for quite some time. The one two sequence of
-  "Jackie's Strength" and "Iieee" is one of my favorite in music history.
-  [*Memory*: I was already interested in this album pre-release due to her
-  contributions to the excellent **Great Expectations: Soundtrack**. I was out
-  washing my car on a beautiful early summer day and heard "Spark" on WMMR. That
-  was my entry point to one of my lifelong favorite artists.]
+- *From the Choirgirl Hotel* by **Tori Amos**  - [**1998 FAVORITE**] - The
+  creative peak of her early period, this is a fantastic record. I still prefer
+  the rawness of **Pele** ever so slightly, but this is definitely my second
+  favorite of her albums. This managed to both turn up the rock band elements,
+  while adding in strong elements of electronic music. The top rate vocals and
+  piano are are still there of course along with some of the last songwriting in
+  the original **Tori Amos** style that we would hear for quite some time. The
+  one two sequence of "Jackie's Strength" and "Iieee" is one of my favorite in
+  music history. [*Memory*: I was already interested in this album pre-release
+  due to her contributions to the excellent **Great Expectations: Soundtrack**.
+  I was out washing my car on a beautiful early summer day and heard "Spark" on
+  WMMR. That was my entry point to one of my lifelong favorite artists.]
 
 - *The Three EPs* by **The Beta Band** - So much more than "Dry The Rain" (as
   heard in Hollywood's version of "High Fidelity"). Admittedly the selection of
@@ -516,28 +747,28 @@ something I enjoy today. They have however been joined by quite a few others.
   remember clearly listening to it on a boom box on the kitchen table and being
   blown away. I ran out and got my own copy.]
 
-- *The Gay Parade* by **Of Montreal** - I really miss the early incarnation of
-  Kevin Barnes making weird little psych pop gems. This is the peak of that
-  sound, and a subtly profound mediation on the nature of happiness. The Songs
-  that close out the albums are especially profound. "My Friend Will Be Me" is
-  about finding the inner strength to fight back the darkness of loneliness. "My
-  Favorite Boxer" a set piece exploring the dangers of finding fulfillment and
-  meaning in a "relationship" with a media figure. The cynical "Advice From a
-  Divorced Gentleman to His Bachelor Friend Considering Marriage" calls out the
-  draining trap of negative thinking. The stunningly beautiful "A Man's Life
-  Flashing Before His Eyes While He and His Wife Drive Off a Cliff into the
-  Ocean" shows how we often only realize how good we have it when we are faced
-  with it all being taken away. Then we have "Nickee Coco and the Invisible
-  Tree" who's message is complex and completely unclear. A young girl who
-  becomes separated from her community seems to find a place of peace and calm.
-  Should we feel good when Nickee is found, or did she really belong in that
-  tree? [*Memory*: This was the first album I ever spent a little more for a
-  used copy of. For several months I watched eBay and eventually put down $35
-  plus shipping for my own copy of the 1999 pressing. It is funny to think about
-  that as a lot of money now, since that is pretty much the going rate for new
-  albums. I remember a group of us were listening to records on my old crappy
-  Sony turntable in the basement game room of my apartment in those days, and I
-  dropped the disc on the floor! It survived.]
+- *The Gay Parade* by **Of Montreal**  - [**1999 FAVORITE**] - I really miss the
+  early incarnation of Kevin Barnes making weird little psych pop gems. This is
+  the peak of that sound, and a subtly profound mediation on the nature of
+  happiness. The Songs that close out the albums are especially profound. "My
+  Friend Will Be Me" is about finding the inner strength to fight back the
+  darkness of loneliness. "My Favorite Boxer" a set piece exploring the dangers
+  of finding fulfillment and meaning in a "relationship" with a media figure.
+  The cynical "Advice From a Divorced Gentleman to His Bachelor Friend
+  Considering Marriage" calls out the draining trap of negative thinking. The
+  stunningly beautiful "A Man's Life Flashing Before His Eyes While He and His
+  Wife Drive Off a Cliff into the Ocean" shows how we often only realize how
+  good we have it when we are faced with it all being taken away. Then we have
+  "Nickee Coco and the Invisible Tree" who's message is complex and completely
+  unclear. A young girl who becomes separated from her community seems to find a
+  place of peace and calm. Should we feel good when Nickee is found, or did she
+  really belong in that tree? [*Memory*: This was the first album I ever spent a
+  little more for a used copy of. For several months I watched eBay and
+  eventually put down $35 plus shipping for my own copy of the 1999 pressing. It
+  is funny to think about that as a lot of money now, since that is pretty much
+  the going rate for new albums. I remember a group of us were listening to
+  records on my old crappy Sony turntable in the basement game room of my
+  apartment in those days, and I dropped the disc on the floor! It survived.]
 
 - *Black Foliage Animation Music: Volume I* by **The Olivia Tremor Control** -
   My favorite of the albums by the core Elephant6 bands. A fascinating, dark
