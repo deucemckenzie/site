@@ -21,7 +21,7 @@ or morph significantly as I go.
 I have been trying to do a check-in about every year, and this one is a little
 behind that schedule. That said, things continue to progress at a fairly decent
 rate. In the almost 18 months since the last update, I have completed years
-1995-2008 and continue my journey through the 90s. I have passed an interesting
+1997-2008 and continue my journey through the 90s. I have passed an interesting
 milestone working backward through the years. I'm now finding that the large
 majority of my favorite albums for a year were discovered well after release. It
 won't be long until I get to the point where I will have been too young to have
