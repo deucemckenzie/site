@@ -16,6 +16,49 @@ spanning the years of 1956 to the current day. I'm not sure how long this final
 portion of the project will take, and it is very possible the list could expand
 or morph significantly as I go.
 
+**UPDATE 24 Jan 2025**
+
+It has been about another year so time for an update. I'm not moving through
+documenting the years as quickly as planned. My target of wrapping this by the
+end of 2025 isn't going to happen, and that is OK. This is definitely the kind
+of thing that I should only work on when I feel excited to do it. When I am in
+the mood for it, there are few things that I enjoy more in my free hours. I now
+have covered the 30 year interval between 1994 and 2024. At this point I am
+cataloging my favorites from the years of my childhood. Working backwards, I
+will soon be in the years before my time as a music consumer, and beyond that,
+the years before my existence as a living human.
+
+As for the continued expansion of my vinyl collection, there was modest
+progress. In preparation for the continued work here, I obtained what remained
+from my 90s wishlist and was commonly available. I'm also working ahead a bit
+evaluating records from the 1980s that I was considering adding to that list of
+favorites. In addition to those threads of acquisition, there were another 7-8
+favorites from each of the last two years, and the ongoing program of twenty
+year anniversary releases that filled in some gaps in from the naughts. For the
+first time I also made some significant revisions to the years already
+cataloged, with a handful joining the list, and a handful leaving. At this point
+I have recorded 1134 favorites, 1019 of which I own on my preferred format. This
+puts me at 89.85%, right on the threshold of what I believe to be a kind of 90%
+theoretical limit on this metric. Interestingly, acquiring only two favorites
+already on my list would push me over the threshold, but it would take adding 16
+new favorites on vinyl to the list to achieve it that way. While I am very
+close, it could still take a few years to reach that number. Every new favorite
+I add without the possibility for vinyl knocks me back a fair distance. 
+
+The biggest factor that makes me realize 90% isn't happening any time soon is
+the dwindling list of potential acquisitions. I have been collecting vinyl
+records of my favorite albums since I was in my mid-twenties (I feel lucky to
+have gotten in when things were way cheaper). I have everything I want from
+before 1993. The better part of two decades later, these are the last 18 I am
+looking for. I have reached the point where they have never been available on
+the format, or are way more expensive than I am willing to pay. I've been at
+this long enough to have a sense of what is likely to get a reissue and I think
+I have a good shot at maybe ten more of these in the years ahead. 
+
+.. image:: images/remaining_vinyl.jpg
+  :width: 900
+  :alt: remaining vinyl I am looking for at a good price
+
 **UPDATE 26 Jan 2024**
 
 I have been trying to do a check-in about every year, and this one is a little
