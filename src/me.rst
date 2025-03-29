@@ -9,8 +9,6 @@ Matt Smith
 
 Rochester, New York
 
-.. raw:: html
-
 - Data Engineer 
 - Private Pilot
 - `Runner <https://www.strava.com/athletes/35137643>`_
