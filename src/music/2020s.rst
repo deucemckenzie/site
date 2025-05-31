@@ -283,7 +283,7 @@ this just a dry spell before a go in a totally new direction. Since I am a year
 behind on this project, I already know the answer, and can now say it is a bit
 of both.
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/2023.jpg
   :width: 900
   :alt: My favorite albums from 2023
 
@@ -389,9 +389,9 @@ course I had to throw one new band in there to keep things fresh. Things were
 more organic than that, but definitely I have a different relationship with new
 music at age 44.
 
-.. image:: images/image_forthcoming.jpg
+.. image:: images/2024.jpg
   :width: 900
-  :alt: My favorite albums from 2023
+  :alt: My favorite albums from 2024
 
 .. raw:: html
 
