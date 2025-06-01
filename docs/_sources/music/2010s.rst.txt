@@ -44,7 +44,7 @@ old", but where exactly did it happen?
 
 *Section complete*: 7 Nov 2021
 
-*Latest update*: 13 Jan 2024
+*Latest update*: 31 May 2025
 
 *Total Albums*: 185
 
@@ -81,6 +81,9 @@ electronic album:
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
   clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
+
+Favorite Albums by year
+-----------------------
 
 .. toctree::
    :maxdepth: 3

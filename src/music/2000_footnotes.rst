@@ -1,5 +1,5 @@
-Footnotes
-=========
+2000s Footnotes
+===============
 
 **Albums that dropped off during the project**
 
@@ -280,3 +280,259 @@ some reason.
   key tracks from that score, including the opera (?) that somehow was pulled
   off convincingly on SNES hardware are still impressive today. The 90s and
   2000s were the golden age of game music, and I was a big fan in my early 20s.
+
+
+The Record Stores of my Young Adulthood
+---------------------------------------
+
+  - **CDNow/Amazon.com** - All of a sudden we had something that was even more
+    impressive than Tower Records. They also had samples of pretty much
+    everything they sold. Even better, you could use those samples, even if you
+    didn't buy the record from them. I probably bought less than 5 Albums from
+    CDNow, but I made extensive use of their samples to try out new things, and
+    find that track that I couldn't quite place (in the days before Shazam).
+    After the business was transferred to Amazon I used it more, particularly to
+    import rare discs from the UK.
+  
+  - **Best Buy/Circuit City** - I was still frequenting the two big box
+    electronics retailers to avail myself of their loss leader media deals.
+    Circuit City continued to regularly run the buy 2 get 3, and buy 3 get 4
+    deals that they had always used to bring people into the store. Best Buy
+    would continue to downsize the selection in their media section as the
+    digital distribution model started to dominate. I bought a lot of CDs at the
+    going out of business sale for the State College Circuit City in 2009. I
+    don't remember the last disc that I bought at Best Buy, but it wasn't long
+    after that.
+  
+  - **Mike's Movies and Music** - I was in their downtown location perhaps once
+    in the ten years I lived in State College, it closed sometime around 2005. I
+    spent a lot of time in their North Atherton location, which was by far the
+    biggest record store in the area. I had always resisted going to
+    independent record shops with their giant selection and full prices.
+    Emboldened by the money I was making at my new job, I started shopping at
+    Mike's around 2006. It too would close less than a year later.
+
+  - **City Lights Records** - The last record store to survive in State College,
+    while it did have a selection of used vinyl in the back, this was primarily
+    a place to buy new releases on CD. I spent a lot of time talking to the
+    owner Greg and his lone employee Jenn. They did a great job stocking all the
+    indie releases I cared about from 2007 until I moved away in 2009. I
+    remember trying hard to get them to realize that vinyl was the future. They
+    did buy a few of the items for the first Record Store Day, but they were
+    never really able to make that shift, either due to a lack of desire or
+    capital to make it happen. I feel like Greg may have made the worst sin a
+    record store owner could make and started to believe he was cooler than the
+    kids who shopped there. I remember that I started to show an interest in the
+    very uncool, **Style Council**. Greg was a big **Paul Weller** fan and had
+    ordered in a copy of their comprehensive box set. It sat in his shop for
+    years and he always tried to make me a deal on it. It would pass on into the new
+    store "Chronic Town" that would open a few years after City Lights
+    eventually finally shut down in 2010. When I returned to State College in
+    2014 for a visit, I would finally buy the box set and the person running the
+    counter at that store took my picture for Greg. Chronic Town closed in 2022,
+    and the last place left to buy records in State College is a pretty great
+    used shop in the Webster's Bookstore complex.
+
+  - **Lake Shore Record Exchange** - When I moved away from State College (and
+    City Lights Records) I discovered that I lived two blocks from the hippest
+    independent record shop in town. They were an old school business that
+    traced there history to the 80s/90s and they identified strongly with the
+    term "Alternative Music". They also stocked that kind of "indie"...but not
+    "too indie" music that fits into that ambiguous category. For some reason
+    this was the best smelling record store I have ever been to.
+
+The Rise of Legal Downloads and Early Streaming
+-----------------------------------------------
+In 2003 I made the decision to "go legit". I remember sitting in my rented room
+in Cleveland and realizing that I had purchased most of what I cared about, and
+that I could make a short list of the tracks I lacked and find a way to add them
+to my physical collection. By this time, I already had my first Nike MP3 player,
+and had burned my CD collection. In the summer of 2002, my internship had ended
+abruptly due to financial challenges at the company I worked for. I took that
+opportunity to save all of the first 400, and the next 50 or so CDs to 128k MP3s.
+The industry was also starting to go the way of downloads.
+
+- **Sony Connect** - My first downloads would be from the Sony Connect store in
+  an annoying DRM laden format. I didn't choose this to be my first digital
+  music format, it was chosen for me by the McDonald's Monopoly game. They had a
+  second chance game where you could play online to win small prizes with each
+  non-winning game piece. I would get a couple dozen free track downloads this
+  way. I would free them from DRM by burning them to CD and re-ripping them. I
+  don't remember all the songs I got this way, but I know it included the
+  *Marvelous Things* EP by **Eisley**, "You'll Never Walk Alone" by **Gerry and
+  the Pacemakers**, and "Judith" by **A Perfect Circle**. This service lasted
+  barely a year after I made these downloads.
+
+- **iTunes** - The next summer, the McDonald's game moved its second chance over
+  to Apple iTunes. This time it netted me about 10 free track downloads and
+  several hundred free digital prints from Snapfish (some of which I still have
+  22 years later). Back then, this still meant DRM, but it was with a store that
+  had a definite future. What songs I bought with those downloads are lost to
+  time. However, it would lead me to move from WinAmp to iTunes for my daily use
+  MP3 player. The superior features for organizing a large MP3 collection were
+  too hard to turn down. A few years later it would lead me to buy my first (and
+  only) iPod, the first gen nano. I would buy very limited tracks from the
+  iTunes store, but used the application for years. I did take advantage of the
+  monthly free downloads they offered. It was how I discovered **The Arcade
+  Fire** when Apple offered "Neighborhood 1: Tunnels" as a free download in 2004.
+
+- **In Rainbows/Feed the Animals** - I continued to prefer physical media, and
+  some of my first digital music purchases were because it was the only way the
+  album was sold. Both **Radiohead** and **Girl Talk** would adopt the
+  self-release, pay what you can digital download model for their releases in
+  2007/08. Both of these records are still on my list of favorites today.
+
+- **Pandora** - The "Music Genome Project" was a the quirky start to online
+  streaming for me and many others. The early Pandora was far different than the
+  commercial interest it has become today. I have a lot of happy memories
+  listening to my station that I spawned from **The Kinks**, my favorite band at
+  the time. It was how I discovered **Lilys** and several other favorites.
+
+- **Emusic** - What would really get me into downloads was the low price, indie
+  service Emusic. You subscribed at a given level that netted you a number of
+  downloads to use as you saw fit for the month. Pretty quickly I was on the top
+  tier that gave me upwards of 70 tracks a month for 20 bucks. This made a
+  typical album around 3 dollars. I got the all-time classic *Reach Your Skinny
+  Fists Like Antennas to Heaven* for less than a buck fifty. The prices would
+  eventually go up a bit, but this was always the best deal in legit downloads.
+  It also introduced me to the world of indie music, both of the past and the
+  present day. This was the place I discovered a wide range of artists from
+  **St. Vincent** to **Victoire**. A few of the rarer things I bought there have
+  never even made it to streaming.
+
+- **AllofMP3.com** - A shady Russian site that exploited some loophole of local
+  broadcasting rights to sell grey market downloads. I stayed away, except for
+  the **Porcupine Tree** rarity *Recordings* which was only available at this
+  site back then.
+
+- **Important Music Discovery Service I Can't Remember the Name Of** - I wish I
+  could remember the name of this site. I feel like the name had something to do
+  with fruit? Regardless the idea was music discovery, and they had various
+  curated playlists with various themes. It was how I heard about the hot new
+  genre "chillwave" and found out about artists like **Memory Tapes** and
+  **Mercury Rev**. A more personal forerunner of Spotify Radio and the latter
+  day Pandora.
+
+- **Vinyl CD Downloads** - Around 2009 the indie record labels started putting
+  download cards into vinyl records to help accelerate the re-adoption of the
+  format. Consumers like myself had gotten used to ripping CDs after purchase to
+  obtain a legal copy for play on PC and portable units. This definitely worked
+  for me and what was what finally made me move over to a vinyl/digital only ac
+  acquisition plan going forward.
+
+- **Amazon Music and AutoRip** - Eventually the biggest company of all became
+  the biggest player in music downloads. Once they were the market leader, they
+  also started a convenience service where most physical releases on their site
+  also granted a digital download as unprotected MP3 files or FLAC. This service
+  continues until the current day, but I like most folks make little use of it.
+
+Satellite radio
+---------------
+
+State College, PA had mostly terrible radio stations, and I was overjoyed when
+Sirius/XM radio became an option in the early 2000s. I signed up for Sirius in
+2003 and immediately found a lot to like in the service. It expanded my musical
+horizons and became the primary way I learned about music for several years. In
+early 2006 I visited Miami for the Rose Bowl and I discovered the expanded
+playlist of XM which was played in the lobby of our hotel. In 2008, two would
+become one and the dueling services became SiriusXM. I was upset that the
+combined service was more Sirius than XM, and soon I would have access to the
+excellent Rochester terrestrial radio. There would be a decade where I lived
+without satellite radio, and it would be a pandemic era preview that would
+eventually bring me back into the fold. 
+
+The experience of listening to Satellite radio in the first decade of its
+existence was interesting. A few had satellite ready car stereos, but most of us
+had an external radio tuner that connected via analog input or RF modulator. I
+remember my first Sirius radio was a giant blocky box that came with a suction
+mount that I could stick to my dash. I started with the RF modulator, but
+quickly figured out how to get to the back of my car radio and connect via the
+RCA jacks there. I also bought a home adapter that allowed me to hook it up to
+my home stereo. I would later buy a second one so I could use it downstairs with
+some PC speakers. I even brought a dock with me on my first summer in Cleveland,
+OH so I could listen there. The tuner had some neat options like the ability to
+not only see the song and artist that was playing, but an on board memory so you
+could save and refer back to what you heard. I remember that I saved the songs
+"Beware Of Darkness" by **George Harrison** and "The Black Page" by **Frank
+Zappa** in that memory for several years. I still love both of those songs. You
+could also set alerts so that it told you when a given artist played anywhere on
+Sirius. I did that for **Muse** in the summer of 2003, and I got an alert about
+every 10 minutes on one channel or another, they were quite the hot thing then.
+When I got XM, that meant another similar external radio turner. For a while, I
+had the comedy of two dueling external devices connected to my stereo's external
+input though y-connectors. Later that year the speakers in my Dodge Neon gave
+out. I was forced to install and aftermarket Sony head unit with new speakers,
+and it was XM Ready. This allowed me to install a more permanent XM tuner in my
+glove box, and I could continue to use the external Sirius unit if I so wished.
+I rarely used Sirius after that, and the merger would happen and make the whole
+thing moot.
+
+
+Here is a summary of my favorite stations from that first time with Sirius
+and/or XM:
+
+- **Sirius Classic Vinyl/Rewind** - I started off with satellite radio the way
+  that I started with terrestrial radio, classic rock. Safe, but other than the
+  lack of commercials, nothing new.
+
+- **Sirius The Vault** - Then I found the classic rock station that did play
+  things I was never going to hear over the air. This deep cuts format station
+  introduced me to **Zappa** and made me appreciate the solo work by **George
+  Harrison**. They also played way too much **Traffic**. Like an absurd amount
+  of Traffic.
+
+- **Sirius Alt Nation** - I had recently started to listen to modern alt rock
+  like **Interpol** and **The Arcade Fire**. This station was the home for that
+  kind of thing. They also played more mainstream things like **Incubus** and
+  **The Killers**. A nice gateway to the indie music I was about to get very
+  into. On Friday nights, there was a great program called the Liquid Todd Show,
+  which was an amazing combination of electronic music and indie rock. It would
+  somehow introduce me to **Elliott Smith** and **Orbital** one song after
+  another when I listened one Cleveland evening in 2003.
+
+- **Sirius First Wave/80s on 8** - I have always loved the music of the 80s, and
+  these stations were the alternative and mainstream options for that decade.
+  These stations have changed very little in the 20 years since I first
+  listened. Richard Blade is still the dominant force on First Wave, and other
+  than Martha Quinn, the original group of MTV DJs that started this station,
+  continue to host it on a daily basis.
+
+- **Sirius Left of Center** - Eventually I would find the slightly more indie
+  channel than Alt Nation. This was "college rock" or "indie rock". I would
+  discover a ton of artists here from **Modest Mouse** to **Elliott Smith**, and
+  **Cat Power** to **The Go Team!**. It was a little adventurous, but just
+  enough to ease me into this new kind of music.
+
+- **XM Beyond Jazz** - I traveled to the 2006 Orange Bowl with a large group of
+  friends. We were sharing limited hotel bathroom facilities and I found myself
+  often traveling down to the lobby as a backup plan. It was there that I read
+  the interesting sounds of Beyond Jazz. The Modern Jazz radio format was created by
+  Russ Davis, who was essentially its sole champion for the decade or two that it
+  existed. The idea is a continuation of the development of jass beyond the late
+  70s, where it generally appears to stall out and stumble into more milquetoast
+  sounds in the smooth jazz format. I liked the station so much that I
+  immediately went out and bought a second dockable radio unit, this time for
+  XM. I would discover a range of amazing artists on the station from **The Bad
+  Plus** to **Squarepusher**. They also highlighted fusion artists on Friday and
+  I would expand my knowledge of that genre as well. When XM and Sirius merged,
+  this was one of the first stations to go. That really made me angry and
+  contributed to me dropping satellite radio quickly after the merger. Russ
+  would operate his own internet radio station MoJa Radio for over a decade. I
+  subscribed for a short while, but in the years before smart phones, there was
+  no easy way to listen in my car. Perhaps no channel better illustrated the
+  specific strengths of satellite radio for putting a spotlight on under the
+  radar sounds.
+
+- **XM Deep Tracks** - Pretty much "The Vault" with way less Traffic.
+
+- **XMU** - Like "Left of Center" but a much, much deeper playlist. This was the
+  channel I listened to the most from 2006-2008. So many artists discovered from
+  this channel from **Islands** to **Electric President**, and **Caribou** to
+  **Frightened Rabbit**. When the merger happened we got a more Sirius size
+  playlist. I was not pleased.
+
+- **XM Canada The Unsigned/Verge** - Like "XMU" but Canadian. Some really
+  obscure things got played on this channel. Here I found bands like **Hey
+  Rosetta!** and **The Dears**. It would even motivate me to import super indie
+  things like the Calgary band **Jane Vain and the Dark Matter**, who I heard
+  play a live session on the channel. You won't find their work on Spotify.

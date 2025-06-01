@@ -214,6 +214,10 @@ This is the decade with the most albums, and by far the most favorite songs.
 - "Aurora Borealis" by **Nesey Gallons** - An obscure Elephant6 gem from the
   height of my interest in the collective.
 
+- "Every Day Is Exactly the Same" by **Nine Inch Nails** - This could be an
+  outtake from *The Fragile* and that is why I like it so much more than most of
+  the latter day **NIN** material.
+
 - "Right Where It Belongs" by **Nine Inch Nails** - I have never been able to
   get into their work after the 1990s, but this is the best of their later day
   songs. Perhaps because it sounds the most like something off of the 90s records.

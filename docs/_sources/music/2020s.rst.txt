@@ -5,11 +5,39 @@
   :width: 900
   :alt: Ghost
 
+
+2020s Overview
+--------------
 Still a work in progress. The decade started with a pandemic that put a huge
 damper on everything, and music was't immune. Artists weren't able to tour and
 album releases have been far fewer. The isolation and extra time created some
 fairly introspective records. It also gave me the time to make serious progress
 on this project.
+
+2020s Stats/Favorites
+---------------------
+*Section started*: 13 Aug 2021
+
+*Section complete*: TBD
+
+*Latest update*: 31 May 2025
+
+*Total Albums*: TBD
+
+*Top Artists*:
+
+TBD
+
+*Favorite album*:
+
+TBD
+
+*Favorite Song*:
+
+TBD
+
+Favorite Albums by year
+-----------------------
 
 .. toctree::
    :maxdepth: 3

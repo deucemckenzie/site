@@ -70,6 +70,10 @@ pretty outstanding art-rock.
   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+Favorite Albums by year
+-----------------------
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:

@@ -16,6 +16,21 @@ spanning the years of 1956 to the current day. I'm not sure how long this final
 portion of the project will take, and it is very possible the list could expand
 or morph significantly as I go.
 
+**UPDATE 31 May 2025**
+
+It has only been four months since I last updated this, but two big milestones
+have happened. First, I was totally wrong about how long it would take to get to
+90% of my favorites on vinyl. That happened in April of this year. Second, I
+have made the first big reorganization of the site. The decade pages were
+becoming long and unruly, and each year deserved its own page. Also, I was
+finding that some of my memories were becoming incoherent,even to myself, so I
+added some additional footnote context to help this site read a bit better. I
+did a word count and I have written just about 100k words so far! That is about
+the size of a 400 page book. This has turned into an extensive and immensely
+rewarding project, and I'm not even quite half done yet. I'm really enjoying the
+process of writing all this down, and I look forward to reading it again someday
+when this all feels more nostalgic than some of it already has become.
+
 **UPDATE 24 Jan 2025**
 
 It has been about another year so time for an update. I'm not moving through
@@ -46,14 +61,15 @@ close, it could still take a few years to reach that number. Every new favorite
 I add without the possibility for vinyl knocks me back a fair distance. 
 
 The biggest factor that makes me realize 90% isn't happening any time soon is
-the dwindling list of potential acquisitions. I have been collecting vinyl
-records of my favorite albums since I was in my mid-twenties (I feel lucky to
-have gotten in when things were way cheaper). I have everything I want from
-before 1993. The better part of two decades later, these are the last 18 I am
-looking for. I have reached the point where they have never been available on
-the format, or are way more expensive than I am willing to pay. I've been at
-this long enough to have a sense of what is likely to get a reissue and I think
-I have a good shot at maybe ten more of these in the years ahead. 
+the dwindling list of potential acquisitions [Correction: It actually took three
+months after I wrote this to hit 90%]. I have been collecting vinyl records of
+my favorite albums since I was in my mid-twenties (I feel lucky to have gotten
+in when things were way cheaper). I have everything I want from before 1993. The
+better part of two decades later, these are the last 18 I am looking for. I have
+reached the point where they have never been available on the format, or are way
+more expensive than I am willing to pay. I've been at this long enough to have a
+sense of what is likely to get a reissue and I think I have a good shot at maybe
+ten more of these in the years ahead. 
 
 .. image:: images/remaining_vinyl.jpg
   :width: 900
