@@ -20,17 +20,17 @@ or morph significantly as I go.
 
 It has only been four months since I last updated this, but two big milestones
 have happened. First, I was totally wrong about how long it would take to get to
-90% of my favorites on vinyl. That happened in April of this year. Second, I
-have made the first big reorganization of the site. The decade pages were
-becoming long and unruly, and each year deserved its own page. Also, I was
-finding that some of my memories were becoming incoherent,even to myself, so I
-added some additional footnote context to help this site read a bit better. I
-did a word count and I have written just about 100k words so far! That is about
-the size of a 400 page book. This has turned into an extensive and immensely
-rewarding project, and I'm only just a little over the halfway point. I'm really
-enjoying the process of writing all this down, and I look forward to reading it
-again someday when this all feels more nostalgic than some of it already has
-become.
+90% of my favorites on vinyl. That happened in April of this year (1030 of 1141
+favorites on vinyl as of this writing). Second, I have made the first big
+reorganization of the site. The decade pages were becoming long and unruly, and
+each year deserved its own page. Also, I was finding that some of my memories
+were becoming incoherent,even to myself, so I added some additional footnote
+context to help this site read a bit better. I did a word count and I have
+written just about 100k words so far! That is about the size of a 400 page book.
+This has turned into an extensive and immensely rewarding project, and I'm only
+just a little over the halfway point. I'm really enjoying the process of writing
+all this down, and I look forward to reading it again someday when this all
+feels more nostalgic than some of it already has become.
 
 **UPDATE 24 Jan 2025**
 
