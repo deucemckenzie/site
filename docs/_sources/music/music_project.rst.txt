@@ -27,9 +27,10 @@ finding that some of my memories were becoming incoherent,even to myself, so I
 added some additional footnote context to help this site read a bit better. I
 did a word count and I have written just about 100k words so far! That is about
 the size of a 400 page book. This has turned into an extensive and immensely
-rewarding project, and I'm not even quite half done yet. I'm really enjoying the
-process of writing all this down, and I look forward to reading it again someday
-when this all feels more nostalgic than some of it already has become.
+rewarding project, and I'm only just a little over the halfway point. I'm really
+enjoying the process of writing all this down, and I look forward to reading it
+again someday when this all feels more nostalgic than some of it already has
+become.
 
 **UPDATE 24 Jan 2025**
 
