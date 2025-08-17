@@ -1,0 +1,43 @@
+1980s
+=====
+
+.. image:: images/1980s.jpg
+  :width: 900
+  :alt: Boy George (many years after the 1980s)
+
+1980s Overview
+--------------
+TBD
+
+1990s Stats/Favorites
+---------------------
+*Section started*: 26 July 2025
+
+*Section complete*: TBD
+
+*Latest update*: 26 July 2025
+
+*Total Albums*: TBD
+
+*Top Artists*:
+
+TBD
+
+*Favorite album*:
+
+TBD
+
+*Favorite Song*:
+
+TBD
+
+
+Favorite Albums by year
+-----------------------
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   1988
+   1989

@@ -294,52 +294,53 @@ The Record Stores of my Young Adulthood
     After the business was transferred to Amazon I used it more, particularly to
     import rare discs from the UK.
   
-  - **Best Buy/Circuit City** - I was still frequenting the two big box
-    electronics retailers to avail myself of their loss leader media deals.
-    Circuit City continued to regularly run the buy 2 get 3, and buy 3 get 4
-    deals that they had always used to bring people into the store. Best Buy
-    would continue to downsize the selection in their media section as the
+  - **Best Buy/Circuit City** (State College, PA) - I was still frequenting the
+    two big box electronics retailers to avail myself of their loss leader media
+    deals. Circuit City continued to regularly run the buy 2 get 3, and buy 3
+    get 4 deals that they had always used to bring people into the store. Best
+    Buy would continue to downsize the selection in their media section as the
     digital distribution model started to dominate. I bought a lot of CDs at the
     going out of business sale for the State College Circuit City in 2009. I
     don't remember the last disc that I bought at Best Buy, but it wasn't long
     after that.
   
-  - **Mike's Movies and Music** - I was in their downtown location perhaps once
-    in the ten years I lived in State College, it closed sometime around 2005. I
-    spent a lot of time in their North Atherton location, which was by far the
-    biggest record store in the area. I had always resisted going to
-    independent record shops with their giant selection and full prices.
-    Emboldened by the money I was making at my new job, I started shopping at
-    Mike's around 2006. It too would close less than a year later.
+  - **Mike's Movies and Music** (State College, PA) - I was in their downtown
+    location perhaps once in the ten years I lived in State College, it closed
+    sometime around 2005. I spent a lot of time in their North Atherton
+    location, which was by far the biggest record store in the area. I had
+    always resisted going to independent record shops with their giant selection
+    and full prices. Emboldened by the money I was making at my new job, I
+    started shopping at Mike's around 2006. It too would close less than a year
+    later.
 
-  - **City Lights Records** - The last record store to survive in State College,
-    while it did have a selection of used vinyl in the back, this was primarily
-    a place to buy new releases on CD. I spent a lot of time talking to the
-    owner Greg and his lone employee Jenn. They did a great job stocking all the
-    indie releases I cared about from 2007 until I moved away in 2009. I
-    remember trying hard to get them to realize that vinyl was the future. They
-    did buy a few of the items for the first Record Store Day, but they were
-    never really able to make that shift, either due to a lack of desire or
-    capital to make it happen. I feel like Greg may have made the worst sin a
-    record store owner could make and started to believe he was cooler than the
-    kids who shopped there. I remember that I started to show an interest in the
-    very uncool, **Style Council**. Greg was a big **Paul Weller** fan and had
-    ordered in a copy of their comprehensive box set. It sat in his shop for
-    years and he always tried to make me a deal on it. It would pass on into the new
-    store "Chronic Town" that would open a few years after City Lights
-    eventually finally shut down in 2010. When I returned to State College in
-    2014 for a visit, I would finally buy the box set and the person running the
-    counter at that store took my picture for Greg. Chronic Town closed in 2022,
-    and the last place left to buy records in State College is a pretty great
-    used shop in the Webster's Bookstore complex.
+  - **City Lights Records** (State College, PA) - The last record store to
+    survive in State College, while it did have a selection of used vinyl in the
+    back, this was primarily a place to buy new releases on CD. I spent a lot of
+    time talking to the owner Greg and his lone employee Jenn. They did a great
+    job stocking all the indie releases I cared about from 2007 until I moved
+    away in 2009. I remember trying hard to get them to realize that vinyl was
+    the future. They did buy a few of the items for the first Record Store Day,
+    but they were never really able to make that shift, either due to a lack of
+    desire or capital to make it happen. I feel like Greg may have made the
+    worst sin a record store owner could make and started to believe he was
+    cooler than the kids who shopped there. I remember that I started to show an
+    interest in the very uncool, **Style Council**. Greg was a big **Paul
+    Weller** fan and had ordered in a copy of their comprehensive box set. It
+    sat in his shop for years and he always tried to make me a deal on it. It
+    would pass on into the new store "Chronic Town" that would open a few years
+    after City Lights eventually finally shut down in 2010. When I returned to
+    State College in 2014 for a visit, I would finally buy the box set and the
+    person running the counter at that store took my picture for Greg. Chronic
+    Town closed in 2022, and the last place left to buy records in State College
+    is a pretty great used shop in the Webster's Bookstore complex.
 
-  - **Lake Shore Record Exchange** - When I moved away from State College (and
-    City Lights Records) I discovered that I lived two blocks from the hippest
-    independent record shop in town. They were an old school business that
-    traced there history to the 80s/90s and they identified strongly with the
-    term "Alternative Music". They also stocked that kind of "indie"...but not
-    "too indie" music that fits into that ambiguous category. For some reason
-    this was the best smelling record store I have ever been to.
+  - **Lake Shore Record Exchange** (Rochester, NY) - When I moved away from
+    State College (and City Lights Records) I discovered that I lived two blocks
+    from the hippest independent record shop in town. They were an old school
+    business that traced there history to the 80s/90s and they identified
+    strongly with the term "Alternative Music". They also stocked that kind of
+    "indie"...but not "too indie" music that fits into that ambiguous category.
+    For some reason this was the best smelling record store I have ever been to.
 
 The Rise of Legal Downloads and Early Streaming
 -----------------------------------------------

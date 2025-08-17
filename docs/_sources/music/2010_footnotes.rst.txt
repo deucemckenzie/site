@@ -20,9 +20,9 @@ important ones:
 
 - **Chicago** - I have pretty much always liked these guys thanks to my older
   brothers. However, I typically drew a line between the records of the late 60s
-  and early 70s (undisputed classics), an the late 70s and 80s stuff (at best a
-  guilty pleasure). I learned to love most of it, even the cheesy David Foster
-  produced stuff.
+  and early 70s (undisputed classics), an the late 70s and 80s stuff (with way
+  more pop influence). I learned to love most of it, even the cheesy David
+  Foster produced stuff.
 
 - **Kate Bush** - When I was in college, I gave *Hounds of Love* a try since it
   was regarded as a classic, and she is so linked to my all time favorite of
@@ -135,46 +135,47 @@ to the current data in Rochester, NY at Radio Social in the NOTA neighborhood).
   and actually generally prefer black vinyl, which they generally have. Still my
   primary source of new records today.
 
-- **Lake Shore Record Exchange** - Gone but not forgotten, this shop was about
-  two blocks from my tiny Park Avenue apartment. I started buying CDs and
-  records there soon after moving to Rochester in 2009. I was a regular customer
-  until they closed around 2017. They did fade away towards the end of their
-  existence, partially because they refused to totally commit to the clear
+- **Lake Shore Record Exchange** (Rochester, NY) - Gone but not forgotten, this
+  shop was about two blocks from my tiny Park Avenue apartment. I started buying
+  CDs and records there soon after moving to Rochester in 2009. I was a regular
+  customer until they closed around 2017. They did fade away towards the end of
+  their existence, partially because they refused to totally commit to the clear
   pivot back to vinyl by the industry.
 
-- **Record Archive** - When I moved to Rochester this place had fallen a bit on
-  hard times. They were most known for selling overpriced, bad-condition used
-  vinyl. They have since re-invented themselves as the best place to buy new
-  releases on the vinyl format, and a cool place to shop for anything from used
-  DVDs to vintage clothing and quirky gifts. I vividly remember going to Record
-  Store day here the years from 2010 to 2014, at which point things got a
-  little too crazy for me. I would still never buy used records there though.
+- **Record Archive** (Rochester, NY) - When I moved to Rochester this place had
+  fallen a bit on hard times. They were most known for selling overpriced,
+  bad-condition used vinyl. They have since re-invented themselves as the best
+  place to buy new releases on the vinyl format, and a cool place to shop for
+  anything from used DVDs to vintage clothing and quirky gifts. I vividly
+  remember going to Record Store day here the years from 2010 to 2014, at which
+  point things got a little too crazy for me. I would still never buy used
+  records there though.
 
-- **The Bop Shop** - The best place to buy used vinyl in Rochester, and one of
-  the best places to buy used vinyl in the world. The selection here is nuts,
-  and they have a back room with many duplicate copies of what is out on the
-  floor. One time I didn't like the copy of *Beat* by **King Crimson** they had
-  on the floor and they brought me 12 copies from the back to look at. I vividly
-  remember my first visit at their prior Village Gate location, when I bought a
-  new in shrink, first pressing of *Station to Station* by **David Bowie**. It
-  was clear from the start that this was a special place. It was also the
-  perfect store for me to have access to as I started to explore the worlds of
-  Jazz and Fusion. They moved to Monroe Avenue Brighton about ten years ago when
-  Village Gate started to screw over their cooler, old tenants. Still there,
-  still awesome.
+- **The Bop Shop** (Rochester, NY) - The best place to buy used vinyl in
+  Rochester, and one of the best places to buy used vinyl in the world. The
+  selection here is nuts, and they have a back room with many duplicate copies
+  of what is out on the floor. One time I didn't like the copy of *Beat* by
+  **King Crimson** they had on the floor and they brought me 12 copies from the
+  back to look at. I vividly remember my first visit at their prior Village Gate
+  location, when I bought a new in shrink, first pressing of *Station to
+  Station* by **David Bowie**. It was clear from the start that this was a
+  special place. It was also the perfect store for me to have access to as I
+  started to explore the worlds of Jazz and Fusion. They moved to Monroe Avenue
+  Brighton about ten years ago when Village Gate started to screw over their
+  cooler, old tenants. Still there, still awesome.
 
-- **Amoeba Records** - This classic record store in San Francisco (and Los
-  Angeles) was a highlight of my visits to California in the early days of my
-  collecting. It was there that I discovered the joys of buying recent releases
-  as new vinyl. I vividly remember finding an unexpected re-release of the first
-  **Beach House** record at the Haight Street location. The store is fundamental
-  to the vinyl revival.
+- **Amoeba Records** (San Francisco/Los Angeles, CA) - This classic record store
+  in San Francisco (and Los Angeles) was a highlight of my visits to California
+  in the early days of my collecting. It was there that I discovered the joys of
+  buying recent releases as new vinyl. I vividly remember finding an unexpected
+  re-release of the first **Beach House** record at the Haight Street location.
+  The store is fundamental to the vinyl revival.
 
-- **Stereo Shop/Hi-Fi Lounge** - What was formally a tiny store on the side of
-  the high end stereo shop in Henrietta became a standalone hi-fi store with
-  highly curated used vinyl for sale. I haven't bought much there, but
-  everything I have purchased was in amazing shape. This is also where I take my
-  turntable when it needs work to stay in top shape.
+- **Stereo Shop/Hi-Fi Lounge** (Rochester, NY) - What was originally a tiny
+  store on the side of the high end stereo shop in Henrietta became a standalone
+  hi-fi store with highly curated used vinyl for sale. I haven't bought much
+  there, but everything I have purchased was in amazing shape. This is also
+  where I take my turntable when it needs work to stay in top shape.
 
 - **Discogs** - At the very end of the decade I discovered the joys of a
   worldwide selection on Discogs. I never really trusted the idea of buying this

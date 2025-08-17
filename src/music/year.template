@@ -1,0 +1,17 @@
+19XX Albums
+-----------
+
+Summary
+
+
+.. image:: images/image_forthcoming.jpg
+  :width: 900
+  :alt: My favorite albums from 19XX
+
+.. raw:: html
+
+  <playlist embed link>
+  
+- *Album* by **Artist** - Writeup [*Memory*: Nostalgia]
+
+- *Favorite Album* by **Artist** - [**19XX FAVORITE**] - Writeup [*Memory*: Nostalgia]

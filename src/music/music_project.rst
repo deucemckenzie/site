@@ -277,6 +277,7 @@ Albums By Decade
    :maxdepth: 3
    :caption: Contents:
 
+   1980s
    1990s
    2000s
    2010s

@@ -499,56 +499,59 @@ What Else was I Listening To?
 The Record Stores of My Youth
 -----------------------------
 
-- **Strawberries** - When I had my first money to spend on music this little
-  shop by the Jamesway department store was the place. The selection was
-  limited, but the prices were low.
+- **Strawberries** - (Pottstown, PA) When I had my first money to spend on music
+  this little shop by the Jamesway department store was the place. The selection
+  was limited, but the prices were low.
 
-- **Circuit City** - In the 90s they used CDs as a loss leader, and had many of
-  the most popular new releases for far less than any other store. Their back
-  catalog titles were very limited, but I tried to get everything I could there.
+- **Circuit City** - (Reading/ State College, PA) In the 90s they used CDs as a
+  loss leader, and had many of the most popular new releases for far less than
+  any other store. Their back catalog titles were very limited, but I tried to
+  get everything I could there.
 
-- **Downtown Records** - My introduction to independent record stores. I
-  remember traveling to this funky little shop on High Street Pottstown with
-  some of my High School friends. It felt so exotic. It is still there today.
+- **Downtown Records** - (Pottstown, PA) My introduction to independent record
+  stores. I remember traveling to this funky little shop on High Street
+  Pottstown with some of my High School friends. It felt so exotic. It is still
+  there today.
 
-- **The Wall** - The place that offered the lifetime guarantee stickers, and
-  charged you 18 bucks for a CD in the mid-90s. I remember listening to new
-  releases on their headphone listening stations, but I only bought a handful of
-  albums there in my lifetime. I'll always be able to know which ones those are
-  via those little blue stickers.
+- **The Wall** - (Pottstown/Reading/King of Prussia, PA) The place that offered
+  the lifetime guarantee stickers, and charged you 18 bucks for a CD in the
+  mid-90s. I remember listening to new releases on their headphone listening
+  stations, but I only bought a handful of albums there in my lifetime. I'll
+  always be able to know which ones those are via those little blue stickers.
 
-- **Tower** - I'll always vividly remember my first visit to the King of
-  Prussia location. They had a copy of pretty much every album I was aware of.
-  They had the entire catalog of artists. They had entire rooms dedicated to
-  Jazz and Classical music. It was always a treat when I got to visit this
-  place, and I would return with a stack of new disks. I remember seeing all of
-  the Paul McCartney solo albums I had seen in the liner notes to *All The Best*
-  and thinking about how long it would take to come back and own them all.
+- **Tower** (King of Prussia, PA) - I'll always vividly remember my first visit
+  to the King of Prussia location. They had a copy of pretty much every album I
+  was aware of. They had the entire catalog of artists. They had entire rooms
+  dedicated to Jazz and Classical music. It was always a treat when I got to
+  visit this place, and I would return with a stack of new disks. I remember
+  seeing all of the Paul McCartney solo albums I had seen in the liner notes to
+  *All The Best* and thinking about how long it would take to come back and own
+  them all.
 
-- **Best Buy** - In the mid 90s, this place felt a bit like Tower, but way
-  cheaper. When the location opened in Wyomissing, it became the location where
-  I bought 90% of the things I couldn't get at Circuit City. 
+- **Best Buy** - (Reading/Allentown, PA) In the mid 90s, this place felt a bit
+  like Tower, but way cheaper. When the location opened in Wyomissing, it became
+  the location where I bought 90% of the things I couldn't get at Circuit City. 
 
-- **Sam Goody** - The last mall record store standing in SE PA would become an
-  occasional visit when I wanted an obscure new release, like the latest **Tori
-  Amos** CD single.
+- **Sam Goody** (Pottstown/Reading, PA) - The last mall record store standing in
+  SE PA would become an occasional visit when I wanted an obscure new release,
+  like the latest **Tori Amos** CD single.
 
-- **Borders** - Oh man, I miss this place. It was perhaps the coolest chain
-  store that ever was. An amazing collection of Books, Movies, and Music it was
-  a place for nerdy teenagers (like me) to hang out in the late 90s. Boarders
-  introduce me to imported CD releases. Boarders introduced me to classical
-  music with the selections they played over the store speakers, and their
-  recommended recordings helped me build my initial collection.They were a
+- **Borders** (Reading, PA) - Oh man, I miss this place. It was perhaps the
+  coolest chain store that ever was. An amazing collection of Books, Movies, and
+  Music it was a place for nerdy teenagers (like me) to hang out in the late
+  90s. Boarders introduce me to imported CD releases. Boarders introduced me to
+  classical music with the selections they played over the store speakers, and
+  their recommended recordings helped me build my initial collection.They were a
   physical manifestation of the Amazon selection, it was too beautiful to live
   into our modern age. 
 
-- **Record Revolution** - My first visit was to buy a **Tori Amos** bootleg. The
-  unique vibe of the place would bring me back on multiple occasions before they
-  closed early in the next millennium. They put the idea in my head of returning
-  to vinyl records. It would take a decade before I actually started on that
-  journey, but it started here in 1998.
+- **Record Revolution** (Reading, PA) - My first visit was to buy a **Tori
+  Amos** bootleg. The unique vibe of the place would bring me back on multiple
+  occasions before they closed early in the next millennium. They put the idea
+  in my head of returning to vinyl records. It would take a decade before I
+  actually started on that journey, but it started here in 1998.
 
-- **Cash Converters** - The used CD era kicked into high gear in the late 90s.
-  This local second-hand sale chain had some of the best deals for used discs. It
-  was an especially good deal when they ran there regular buy 2 get 1 free
-  deals. I bought dozens of albums there for 2-3 bucks each.
+- **Cash Converters** (Pottstown, PA) - The used CD era kicked into high gear in
+  the late 90s. This local second-hand sale chain had some of the best deals for
+  used discs. It was an especially good deal when they ran there regular buy 2
+  get 1 free deals. I bought dozens of albums there for 2-3 bucks each.
