@@ -39,5 +39,6 @@ Favorite Albums by year
    :maxdepth: 3
    :caption: Contents:
 
+   1987
    1988
    1989
